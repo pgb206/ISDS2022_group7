@@ -1,4 +1,4 @@
-tags,sub_header,text_body,sources,quote_href
+tags,sub_header,text_body,quote_href
 "['Education', 'State Budget', 'Wisconsin', 'Sondy Pope']","
 Rep. Sondy Pope says increases in education funding won’t catch up to previous levels for 12 years
 ","
@@ -52,7 +52,7 @@ The best number is about eight or nine years, we heard from two experts. That’
 
 So it’s more like middle school or freshman year of high school, not graduation.
 
-We rate her claim False.",[<zip object at 0x000002809C487180>],/factchecks/2013/mar/03/sondy-pope/rep-sondy-pope-says-increases-education-funding-wo/
+We rate her claim False.",/factchecks/2013/mar/03/sondy-pope/rep-sondy-pope-says-increases-education-funding-wo/
 "['New Jersey', 'Jobs', 'Chris Christie']","
 Chris Christie says number of private-sector jobs growing in New Jersey
 ","
@@ -98,7 +98,7 @@ The governor is right that New Jersey has gained 103,000 new private-sector jobs
 Christie also is correct that 2011 and 2012 represent the best two years of private-sector job growth since 1999, according to BLS data and calculations from a Rutgers University economist.
 
 We rate his claim Mostly True. 
-To comment on this story, go to NJ.com.",[<zip object at 0x000002809C305080>],/factchecks/2013/mar/03/chris-christie/chris-christie-says-private-sector-jobs-growing-ne/
+To comment on this story, go to NJ.com.",/factchecks/2013/mar/03/chris-christie/chris-christie-says-private-sector-jobs-growing-ne/
 "['Rhode Island', 'Civil Rights', 'Criminal Justice', 'Economy', 'Crime', 'Poverty', 'Public Safety', 'Workers', 'Carolyn Medeiros']","
 Leader of Alliance for Safe Communities says employers can get thousands of dollars in tax breaks and bond money to hire convicted felons
 ","
@@ -149,7 +149,7 @@ She was mostly correct about the tax credit (although it doesn't involve a bond)
 
 Because her statement contains some element of truth but gets some critical facts wrong, we rate it Mostly False.
 
-(If you have a claim you’d like PolitiFact Rhode Island to check, e-mail us at [email protected] And follow us on Twitter: @politifactri.)",[<zip object at 0x0000028096FABA40>],/factchecks/2013/mar/03/carolyn-medeiros/leader-alliance-safe-communities-says-employers-ca/
+(If you have a claim you’d like PolitiFact Rhode Island to check, e-mail us at [email protected] And follow us on Twitter: @politifactri.)",/factchecks/2013/mar/03/carolyn-medeiros/leader-alliance-safe-communities-says-employers-ca/
 "['Oregon', 'Children', 'County Government', 'Families', 'Diane McKeel']","
 Is the average age of entry into sex trafficking between 12 and 14 years old?
 ","
@@ -200,7 +200,7 @@ We’ve galloped across the country and found that definitions are fuzzy, statis
 We found a professor who said there is some research backs up the claim, and another expert who warned that sample sizes are inadequate and research limited. One of the most widely cited sources told us that any numbers, even his, are estimates.
 
 We conclude McKeel’s statement is partially accurate -- there are some studies -- but missing important detail. The studies speak only to juveniles, and the studies themselves are speculative. There is no nationally representative, comprehensive sample. We rate the statement Half True.
- ",[<zip object at 0x0000028096AB7140>],/factchecks/2013/mar/02/diane-mckeel/Is-average-age-entry-sex-trafficking-between-12-an/
+ ",/factchecks/2013/mar/02/diane-mckeel/Is-average-age-entry-sex-trafficking-between-12-an/
 "['National', 'Federal Budget', 'Polls and Public Opinion', 'Taxes', 'Barack Obama']","
 Barack Obama says ""the majority of the American people agree with me"" on spending cuts and tax increases to fix the budget
 ","
@@ -305,7 +305,7 @@ One other way the president doesn’t enjoy majority support: Just a plurality o
 
 Our ruling
 
-Obama said of a balanced approach to deficit reduction that ""the majority of the American people agree with me and this approach, including, by the way, a majority of Republicans."" We found two polls that supported his statement in its entirety, several polls that supported at least the first half, and polls from Rasmussen and Republican pollster Winston Group presented more of a mixed picture. The majority of the polls we found support the president. We rate the president’s statement Mostly True.",[<zip object at 0x000002809C13C940>],/factchecks/2013/mar/01/barack-obama/barack-obama-says-majority-american-people-agree-m/
+Obama said of a balanced approach to deficit reduction that ""the majority of the American people agree with me and this approach, including, by the way, a majority of Republicans."" We found two polls that supported his statement in its entirety, several polls that supported at least the first half, and polls from Rasmussen and Republican pollster Winston Group presented more of a mixed picture. The majority of the polls we found support the president. We rate the president’s statement Mostly True.",/factchecks/2013/mar/01/barack-obama/barack-obama-says-majority-american-people-agree-m/
 "['History', 'Redistricting', 'Texas', 'Trey Martinez Fischer']","
 Trey Martinez Fischer says Texas Legislature has never avoided violating Section 5 of Voting Rights Act
 ","
@@ -358,7 +358,7 @@ Our ruling
 
 Martinez Fischer said that since Texas was placed under Section 5 of the Voting Rights Act in 1975, the Texas Legislature has never gone through redistricting without violating it.
 
-We see a reasonable basis for this claim in that Section 5 objections have been lodged by federal authorities in every once-a-decade round of redistricting since then. Still, three initial redistricting plans won preclearance and one plan survived through its decade unscathed by the Justice Department or federal courts. In these ways, ""never"" is misleading, rendering the claim partially accurate. We rate it Half True.",[<zip object at 0x000002809C0BF940>],/factchecks/2013/mar/01/trey-martinez-fischer/trey-martinez-fischer-says-texas-legislature-has-n/
+We see a reasonable basis for this claim in that Section 5 objections have been lodged by federal authorities in every once-a-decade round of redistricting since then. Still, three initial redistricting plans won preclearance and one plan survived through its decade unscathed by the Justice Department or federal courts. In these ways, ""never"" is misleading, rendering the claim partially accurate. We rate it Half True.",/factchecks/2013/mar/01/trey-martinez-fischer/trey-martinez-fischer-says-texas-legislature-has-n/
 "['National', 'Federal Budget', 'Ami Bera']","
 Rep. Ami Bera says due to sequester, 'people are going to be unsafe. Homes are going to burn'
 ","
@@ -424,7 +424,7 @@ Bera said that due to the sequester, ""people are going to be unsafe. Homes are 
 
 The precise impact of sequester cuts on firefighting is speculative, but it’s safe to assume there will be some impact on the margins, at least in places that receive federal firefighting grants. Still, Bera’s language is overheated, both on Sacramento’s case in particular and in the overall picture.
 
-In the communities lucky enough to receive SAFER grants, such funds typically account for a small portion of the total departmental budget. In addition, firehouse woes do not begin and end with the sequester; local budgets and policies also deserve some blame. Finally, blaming the sequester obscures even larger cuts the administration itself proposed prior to the sequester. On balance, we rate Bera’s claim Mostly False.",[<zip object at 0x0000028096AB74C0>],/factchecks/2013/mar/01/ami-bera/rep-ami-bera-says-due-sequester-people-are-going-b/
+In the communities lucky enough to receive SAFER grants, such funds typically account for a small portion of the total departmental budget. In addition, firehouse woes do not begin and end with the sequester; local budgets and policies also deserve some blame. Finally, blaming the sequester obscures even larger cuts the administration itself proposed prior to the sequester. On balance, we rate Bera’s claim Mostly False.",/factchecks/2013/mar/01/ami-bera/rep-ami-bera-says-due-sequester-people-are-going-b/
 "['States', 'Virginia', 'Ken Cuccinelli']","
 Cuccinelli says Virginia is the only state where attorneys general resign to run for governor
 ","
@@ -509,7 +509,7 @@ There’s no doubt that the custom exists in Virginia. The last six attorneys ge
 
 No one, it seems, keeps data on whether the custom exists in other states. So we researched every gubernatorial election in the U.S. since 1985 and, along, the way, ran across information from a few earlier elections. All told, we found 31 states outside Virginia where attorneys general ran for governor. None of the candidates resigned.
 
-We rate Cuccinelli’s statement True.",[<zip object at 0x000002809C0BF0C0>],/factchecks/2013/mar/01/ken-cuccinelli/cuccinelli-says-virginia-only-state-where-attorney/
+We rate Cuccinelli’s statement True.",/factchecks/2013/mar/01/ken-cuccinelli/cuccinelli-says-virginia-only-state-where-attorney/
 "['National', 'Education', 'Federal Budget', 'Arne Duncan']","
 Arne Duncan says teachers are losing jobs because of sequestration
 ","
@@ -583,7 +583,7 @@ But the lone example of actual pink slips is the West Virginia district. And off
 
 The other districts held up by education officials haven’t fired a single teacher because of sequestration. Ritsch, Duncan’s spokesman, said that distinction hardly matters: ""Whether they’ve got a pink slip in hand or one is coming in two weeks, the basic point is the same -- their jobs are at risk.""
 
-Maybe so. But that’s not what Duncan said, which is that teachers right now are being shown the door. We rate his statement Mostly False.",[<zip object at 0x000002809C4C3380>],/factchecks/2013/mar/01/arne-duncan/arne-duncan-says-teachers-are-losing-jobs-because-/
+Maybe so. But that’s not what Duncan said, which is that teachers right now are being shown the door. We rate his statement Mostly False.",/factchecks/2013/mar/01/arne-duncan/arne-duncan-says-teachers-are-losing-jobs-because-/
 "['Elections', 'Texas', 'Greg Abbott']","
 Greg Abbott says last non-partisan body on election reforms decided photo IDs at polls were necessary
 ","A Texas leader quickly responded to President Barack Obama’s announcement of a ""non-partisan commission to improve the voting experience in America.""
@@ -620,7 +620,7 @@ Our ruling
 
 Abbott said the ""last non-partisan commission to improve the voting experience in America concluded that #VoterID was necessary.""
 
-The Carter-Baker commission, the latest tri-partisan national body to review election reforms, recommended that states require citizens to present REAL ID cards to vote. Three of its 21 members dissented on the recommendation. The claim rates as True.",[<zip object at 0x00000280979776C0>],/factchecks/2013/mar/01/greg-abbott/greg-abbott-says-last-non-partisan-body-election-r/
+The Carter-Baker commission, the latest tri-partisan national body to review election reforms, recommended that states require citizens to present REAL ID cards to vote. Three of its 21 members dissented on the recommendation. The claim rates as True.",/factchecks/2013/mar/01/greg-abbott/greg-abbott-says-last-non-partisan-body-election-r/
 "['Georgia', 'City Government', 'Sports', 'Taxes', 'Duriya Farooqui']","
 Atlanta official seeks touchdown on stadium claim
 ","
@@ -681,7 +681,7 @@ Farooqui said in her presentation that 47 percent of the cost of 18 pro sports f
 
 The public investment, though, in other billion-dollar stadiums is much less than 47 percent. We believe this context is necessary to fully understand Farooqui’s statement.
 
-We rate Farooqui’s claim as Mostly True.",[<zip object at 0x0000028097304700>],/factchecks/2013/mar/01/duriya-farooqui/atlanta-official-seeks-touchdown-stadium-claim/
+We rate Farooqui’s claim as Mostly True.",/factchecks/2013/mar/01/duriya-farooqui/atlanta-official-seeks-touchdown-stadium-claim/
 "['Rhode Island', 'Drugs', 'Education', 'Marijuana', 'Nancy Denuccio']","
 Chairwoman of Ocean State Prevention Alliance says many Rhode Island teens don’t think daily marijuana use poses serious risk of harm
 ","As Rhode Island lawmakers debate proposals to legalize marijuana, health officials and others opposed to drug use are warning of serious consequences.
@@ -728,7 +728,7 @@ Nancy Devaney, chairwoman of Ocean State Prevention Alliance, said in a news rel
 
 The percentages from surveys in several communities we checked generally supported her statement, though not all students asked about their perceptions of risk based on daily use of the drug. For those reasons, we rate the statement Mostly True.
 
-(If you have a claim you’d like PolitiFact Rhode Island to check, e-mail us at [email protected] And follow us on Twitter: @politifactri.)",[<zip object at 0x0000028097038C80>],/factchecks/2013/mar/01/nancy-devaney/chairwoman-ocean-state-prevention-alliance-says-ma/
+(If you have a claim you’d like PolitiFact Rhode Island to check, e-mail us at [email protected] And follow us on Twitter: @politifactri.)",/factchecks/2013/mar/01/nancy-devaney/chairwoman-ocean-state-prevention-alliance-says-ma/
 "['National', 'Economy', 'Federal Budget', 'Taxes', 'Kevin McCarthy']","
 Kevin McCarthy says federal government has more revenue now than ‘any other time’
 ","
@@ -807,7 +807,7 @@ Starting in 2015, reputable projections show revenue rising to 19.1 percent of G
 
 In fact, the nation collected more than 19.1 percent of GDP in seven years of the last 40. To say that the nation will collect the most revenue in raw dollars in 2013, according to tax experts, is meaningless.
 
-We rate McCarthy’s statement Mostly False.",[<zip object at 0x000002809696D680>],/factchecks/2013/feb/28/kevin-mccarthy/rep-kevin-mccarthy-says-federal-government-has-mor/
+We rate McCarthy’s statement Mostly False.",/factchecks/2013/feb/28/kevin-mccarthy/rep-kevin-mccarthy-says-federal-government-has-mor/
 "['National', 'Economy', 'Chris Dodd']","
 Dodd flip-flopped on whether he changed amendment on bonuses to AIG and banks
 ","
@@ -864,10 +864,10 @@ press conference
 ""I'm angry about it, and angry that in a sense I've been held up as sort of responsible for all this when in fact I responded to what I thought was a reasonable request at the time,"" Dodd said. ""I went through six weeks of a lot of criticism from the financial press, from Wall Street and others that my amendment was too restrictive, that it was unfair, that there would be a brain drain, that people would leave right and left.""
  
 Still, it was Dodd who chose to insert the loophole. For his 180-degree switch from steadfast denier to contrite confessor, the Flip-O-Meter registers a Full Flop.
-",[<zip object at 0x0000028097202240>],/factchecks/2009/mar/23/chris-dodd/Dodd-flip-flop-AIG-bonuses/
+",/factchecks/2009/mar/23/chris-dodd/Dodd-flip-flop-AIG-bonuses/
 "['National', 'Economy', 'Mike Pence']","
 Tens of billions in AIG bailout went to foreign companies
-","Amid all the furor over retention bonus payments to AIG employees, Rep. Mike Pence of Indiana, chair of the House Republican caucus, said another outrage in the AIG bailout saga isn't getting enough attention. ""And the other unreported story today is tens of billions of dollars that flowed straight through AIG into the coffers of foreign corporations and foreign banks,"" Pence said in an interview on MSNBC on March 17. ""You know, the American people are frustrated with this."" To date, American taxpayers are $170 billion into AIG bailout as part of an effort to save the global insurance conglomerate from a collapse that many fear would have a catastrophic effect on the U.S. and global economies. But for months, AIG refused to say where that bailout money was going. Under mounting pressure from Congress, on March 15 AIG finally released the names of financial institutions that benefited from the rescue money. Although U.S. firms like Goldman Sachs, Merrill Lynch and Bank of America got the lion's share of payouts, the list also included a number of big foreign banks: Société Générale of France and Deutsche Bank of Germany, which each received nearly $12 billion; Barclays of Britain, $8.5 billion; and UBS of Switzerland, $5 billion. In all, corporations in France and Germany got nearly $36 billion; and all foreign companies got nearly $60 billion. So Pence is right, tens of billions of U.S. taxpayers dollars certainly flowed to foreign corporations and banks. But what did people expect? asked J.D. Foster, a senior fellow in the economics of fiscal policy at the conservative Heritage Foundation. AIG is a global company, indeed the largest insurance company in the world. Remember, Foster said, ""the reason that AIG was taken over by the federal government was to prevent it from going into bankruptcy."" It had a number of contractual obligations to both U.S. and foreign firms that it could not meet. ""If (AIG executives) had made the decision that they were only going to pay U.S. companies, the foreign companies would have gone to court and put AIG in backruptcy,"" Foster said. ""And the whole point was to keep them out of bankruptcy."" ""It’s understandable that people would be mad that taxpayer dollars would go to a place that you might not want it to go, to foreign corporations,"" he said. ""(But) the only reason to give money to AIG was to close out its contracts. Some of those contracts are with foreign corporations."" Pence isn't saying AIG should only have used taxpayer money to pay off obligations to U.S. companies. Pence doesn't think American taxpayers should have been paying for a bailout at all. Pence opposed the first rescue plan last fall, despite the urgings of President Bush and many key Republican leaders. Although a number of Republicans supported the bailout — enough for it to pass handily — Pence noted this week that a majority of Republicans in the House voted against it. ""The American people have had it,"" Pence said in a news conference on March 17. ""They want this Congress to get back to fiscal discipline and restraint and the belief that the freedom to succeed includes the freedom to fail. We have got to bring this country back, this business community back to the notion of personal responsibility and accountability for one's actions."" There are reasoned arguments on both sides of whether Congress ought to have committed billions of taxpayer dollars to bailing out the troubled AIG. But the fact is, one of the consequences of infusing AIG with taxpayer cash to help it pay off its financial obligations was that tens of billions of that money went to foreign companies. We rule Pence's statement True. https://www.sharethefacts.co/share/91ae1e1f-21f9-41b0-9651-a7a0a0813f96",[<zip object at 0x0000028097032200>],/factchecks/2009/mar/20/mike-pence/tens-billions-aig-bailout-went-foreign-comanies/
+","Amid all the furor over retention bonus payments to AIG employees, Rep. Mike Pence of Indiana, chair of the House Republican caucus, said another outrage in the AIG bailout saga isn't getting enough attention. ""And the other unreported story today is tens of billions of dollars that flowed straight through AIG into the coffers of foreign corporations and foreign banks,"" Pence said in an interview on MSNBC on March 17. ""You know, the American people are frustrated with this."" To date, American taxpayers are $170 billion into AIG bailout as part of an effort to save the global insurance conglomerate from a collapse that many fear would have a catastrophic effect on the U.S. and global economies. But for months, AIG refused to say where that bailout money was going. Under mounting pressure from Congress, on March 15 AIG finally released the names of financial institutions that benefited from the rescue money. Although U.S. firms like Goldman Sachs, Merrill Lynch and Bank of America got the lion's share of payouts, the list also included a number of big foreign banks: Société Générale of France and Deutsche Bank of Germany, which each received nearly $12 billion; Barclays of Britain, $8.5 billion; and UBS of Switzerland, $5 billion. In all, corporations in France and Germany got nearly $36 billion; and all foreign companies got nearly $60 billion. So Pence is right, tens of billions of U.S. taxpayers dollars certainly flowed to foreign corporations and banks. But what did people expect? asked J.D. Foster, a senior fellow in the economics of fiscal policy at the conservative Heritage Foundation. AIG is a global company, indeed the largest insurance company in the world. Remember, Foster said, ""the reason that AIG was taken over by the federal government was to prevent it from going into bankruptcy."" It had a number of contractual obligations to both U.S. and foreign firms that it could not meet. ""If (AIG executives) had made the decision that they were only going to pay U.S. companies, the foreign companies would have gone to court and put AIG in backruptcy,"" Foster said. ""And the whole point was to keep them out of bankruptcy."" ""It’s understandable that people would be mad that taxpayer dollars would go to a place that you might not want it to go, to foreign corporations,"" he said. ""(But) the only reason to give money to AIG was to close out its contracts. Some of those contracts are with foreign corporations."" Pence isn't saying AIG should only have used taxpayer money to pay off obligations to U.S. companies. Pence doesn't think American taxpayers should have been paying for a bailout at all. Pence opposed the first rescue plan last fall, despite the urgings of President Bush and many key Republican leaders. Although a number of Republicans supported the bailout — enough for it to pass handily — Pence noted this week that a majority of Republicans in the House voted against it. ""The American people have had it,"" Pence said in a news conference on March 17. ""They want this Congress to get back to fiscal discipline and restraint and the belief that the freedom to succeed includes the freedom to fail. We have got to bring this country back, this business community back to the notion of personal responsibility and accountability for one's actions."" There are reasoned arguments on both sides of whether Congress ought to have committed billions of taxpayer dollars to bailing out the troubled AIG. But the fact is, one of the consequences of infusing AIG with taxpayer cash to help it pay off its financial obligations was that tens of billions of that money went to foreign companies. We rule Pence's statement True. https://www.sharethefacts.co/share/91ae1e1f-21f9-41b0-9651-a7a0a0813f96",/factchecks/2009/mar/20/mike-pence/tens-billions-aig-bailout-went-foreign-comanies/
 "['National', 'Economy', 'National Republican Senatorial Committee']","
 Dodd failed to halt bailout bonuses, but he did limit future ones
 ","
@@ -914,7 +914,7 @@ That's not true in this sense: The bankers would have been allowed to hand out t
 The Republicans’ charge is true in a limited sense — Dodd’s amendment did address the bonus issue while falling short of disallowing the recent AIG bonuses. It is fair for Republicans to call attention to Dodd's loosening his amendment, and to ask why he did so.
  
 We find this claim Half True.
-",[<zip object at 0x000002809A298F80>],/factchecks/2009/mar/20/national-republican-senatorial-committee/Dodd-failed-to-halt-bailout-bonuses/
+",/factchecks/2009/mar/20/national-republican-senatorial-committee/Dodd-failed-to-halt-bailout-bonuses/
 "['National', 'Energy', 'Transportation', 'Barack Obama']","
 Model T got better mileage than SUVs
 ","
@@ -961,7 +961,7 @@ The cars had large, skinny wheels to more easily clear the obstacles on rocky, r
 ""The government would not allow anyone to sell Model Ts today because they're so unsafe,"" Casey said. ""It's a car that no one would use on a regular basis today. It's not a fair comparison.""
  
 We agree that the two cars are totally different. But Obama was careful in the way he phrased his statement: ""The 1908 Model T earned better gas mileage than a typical SUV sold in 2008.""  As long as you don't consider any factors other than mileage, he's right. We rate his statement Mostly True.
-",[<zip object at 0x00000280968B51C0>],/factchecks/2009/mar/19/barack-obama/model-t-better-mileage-SUVs/
+",/factchecks/2009/mar/19/barack-obama/model-t-better-mileage-SUVs/
 "['National', 'Economy', 'Elijah Cummings']","
 AIG retention bonuses going to employees it plans to terminate
 ","
@@ -1016,7 +1016,7 @@ In a statement provided to PolitiFact, Cummings said that while he ""understands
 David Schmidt, a consultant at executive pay firm James F. Reda & Associates, said retention award programs are fairly common for companies that are in trouble. ""That doesn't mean you can't be annoyed by it,"" he said. But the bottom line, he said, is that if the government figures out a way not to pay the bonuses, it likely means ""a lot of these folks are just going to leave."" The reality, Schmidt said, is that many of these employees are in high demand.
  
 This is a complex issue, and much of the detail about the retention bonuses has not yet been publicly revealed. And it's certainly debatable whether the company needs to be paying such large retention bonuses to so many employees. But the fact we are checking here is whether AIG plans to spend $57 million on retention awards for people it expects to terminate in the future. And the answer, according to the company's recent SEC filings, is yes. We rule the statement True.
-",[<zip object at 0x000002809C23F880>],/factchecks/2009/mar/18/elijah-cummings/AIG-retention-bonuses-employees-plans-to-terminate/
+",/factchecks/2009/mar/18/elijah-cummings/AIG-retention-bonuses-employees-plans-to-terminate/
 "['National', 'Corporations', 'Economy', 'Ron Wyden']","
 Wyden and Snowe wanted AIG bonus money back
 ","
@@ -1070,7 +1070,7 @@ There is no documentation in the public record of exactly who removed the provis
 Wyden overstated the case a bit when he responded in the affirmative to Maddow's suggestion that the amendment ""would have stopped what we are experiencing right now."" It would not have eliminated the bonuses entirely — only that portion over $100,000 per person. And the tax that would have been imposed on companies that did not comply would have recovered just 35 percent of the excessive amount.
  
 But Wyden can legitimately claim to have taken on the issue with gusto — well before the current outrage over AIG's bonuses. We find his claim to be Mostly True.
-",[<zip object at 0x00000280972EF7C0>],/factchecks/2009/mar/18/ron-wyden/aig-bonus-wyden-snowe/
+",/factchecks/2009/mar/18/ron-wyden/aig-bonus-wyden-snowe/
 "['National', 'Corporations', 'Federal Budget', 'Retirement', 'Chain email']","
 AIG does not insure the pensions of Congress
 ","
@@ -1107,7 +1107,7 @@ The National Taxpayers Union believes this dynamic puts off needed reforms to th
 We should add that Congress members do not receive their full salary for life, as some Internet sources suggest. (This year, congressional pay is scheduled to be $174,000 a year, though there is a possibility Congress will reject a recent cost-of-living raise.) Instead, members accrue benefits based on how long they serve. In 2006, the average pension was about $61,000 a year for 20 years of service, according to the Congressional Research Service.
  
 If anyone insures congressional pensions, it's U.S. taxpayers, not AIG. The chain e-mail that claims AIG insures congressional pensions is just plain wrong. In fact, we rate it Pants on Fire!
-",[<zip object at 0x0000028097D59C40>],/factchecks/2009/mar/18/chain-email/aig-does-not-insure-pensions-congress/
+",/factchecks/2009/mar/18/chain-email/aig-does-not-insure-pensions-congress/
 "['National', 'Ethics', 'Chuck Grassley']","
 Executives in Japan do not regularly commit suicide
 ","
@@ -1140,7 +1140,7 @@ Suicide in Japan is actually a serious social problem, according to several news
 None of the reports we reviewed singled out shamed executives, however. In fact, the most commonly cited groups of special concern were laid-off workers, the elderly and the young.
  
 In conclusion, we find that Grassley gets the apologies and resignations right, but overstates the regularity of suicides. Apologies appear to be much more common than suicides. So we rate his statement Half True.
-",[<zip object at 0x00000280979DDA40>],/factchecks/2009/mar/17/chuck-grassley/executives-japan-do-not-regularly-commit-suicide/
+",/factchecks/2009/mar/17/chuck-grassley/executives-japan-do-not-regularly-commit-suicide/
 "['National', 'Economy', 'Christina Romer']","
 Yes, but take this prediction with a grain of salt
 ","
@@ -1206,7 +1206,7 @@ But Romer is entitled to highlight optimistic forecasts. And it's true that almo
 Blue Chip Economic Indicators
 
 predicted a rebound by the fourth quarter of 2009. We find Romer's claim to be True.
-",[<zip object at 0x0000028096898200>],/factchecks/2009/mar/17/christina-romer/yes-take-prediction-grain-salt/
+",/factchecks/2009/mar/17/christina-romer/yes-take-prediction-grain-salt/
 "['National', 'Federal Budget', 'John Boehner']","
 Yes, Rep. John Boehner has never asked for earmarks
 ","
@@ -1266,7 +1266,7 @@ Of the 178 Republican House members, only 39 did not have earmarks in the omnibu
 
 
 As for Boehner, he can rightfully claim he hasn't ever asked for or taken an earmark. We rule his statement True.
-",[<zip object at 0x0000028097287A80>],/factchecks/2009/mar/16/john-boehner/rep-john-boehner-earmark-free/
+",/factchecks/2009/mar/16/john-boehner/rep-john-boehner-earmark-free/
 "['National', 'Education', 'Barack Obama']","
 Eighth graders are in ninth, but showing improvement, not falling
 ","
@@ -1303,7 +1303,7 @@ improved
 in the past decade.
  
 We considered giving the president partial credit since American students did come in ninth. But the point of his statement was that they had ""fallen"" to that position and that mathematics performance in the United States is getting worse relative to other countries. And that's just plain False.
-",[<zip object at 0x000002809773AE00>],/factchecks/2009/mar/13/barack-obama/8th-graders-are-9th-showing-improvement-not-fallin/
+",/factchecks/2009/mar/13/barack-obama/8th-graders-are-9th-showing-improvement-not-fallin/
 "['National', 'Federal Budget', 'Charles Schumer']","
 Bridge to Nowhere could not happen again, Schumer says
 ","
@@ -1339,7 +1339,7 @@ But that won't eliminate wasteful earmark spending.
 ""Other than shame and voter anger, there's nothing that would prevent, specifically, the Bridge to Nowhere,"" said Steve Ellis, vice president of Taxpayers for Common Sense. ""Certainly not because of any rules being put in place."" 
 The Bridge to Nowhere is a household word because many people decided it was a waste of taxpayer money. But the legislator who sponsored it didn't think it was a waste. It's a matter of opinion. 
 And there are no rules in place today that would prevent a legislator from proposing an earmark that he or she deems worthwhile but that others deem wasteful. So we very well could have more Bridges to Nowhere, which makes Schumer's statement False. 
-Update: An earlier version of this story incorrectly stated that an arm of the Ketchikan to Gravina bridge was named after Rep. Don Young.",[<zip object at 0x0000028097287B00>],/factchecks/2009/mar/12/charles-schumer/bridge-to-nowhere-could-not-happen-again-schumer/
+Update: An earlier version of this story incorrectly stated that an arm of the Ketchikan to Gravina bridge was named after Rep. Don Young.",/factchecks/2009/mar/12/charles-schumer/bridge-to-nowhere-could-not-happen-again-schumer/
 "['National', 'Federal Budget', 'Peter Orszag']","
 Earmarks down, but not 75 percent
 ","
@@ -1393,7 +1393,7 @@ The Appropriation Committee numbers are a little closer to those cited by Schume
 We note that Obama, in an announcement about earmark reform on March 11, said earmarks ""hit their peak in the middle of this decade, when the number of earmarks had ballooned to more than 16,000."" This number appears to include ""project-based"" federal programs. As we think it should.
  
 At any rate, the Appropriations Committee numbers suggest less than a 50 percent reduction — not 75 or 80 percent. We don't know where Orszag and Schumer got their numbers. And they aren't saying. At least not to us. But the authorities on this matter say their calculations are bunk. We agree. And we rule the statements False.
-",[<zip object at 0x000002809A390F40>],/factchecks/2009/mar/11/peter-orszag/earmarks-down-not-75-percent/
+",/factchecks/2009/mar/11/peter-orszag/earmarks-down-not-75-percent/
 "['National', 'Taxes', 'Robert Gibbs']","
 White House highlights one way the tax code goes easy on the rich
 ","
@@ -1440,10 +1440,10 @@ We're not going to penalize Gibbs for understating his case, because his numbers
 It's worth noting that the rich only enjoy bigger deductions because they pay more taxes — a top tax rate of 35 percent instead of 15 percent, and an estate tax on top of that. But it's also true that a charitable contribution of, say, $1,000 will take a much bigger bite out of a middle-class person's income than a high earner's.
  
 That's all academic though. The bottom line is that Gibbs' number are accurate. We find this claim to be True.
-",[<zip object at 0x000002809670E040>],/factchecks/2009/mar/11/robert-gibbs/No-wonder-the-rich-give-so-much-to-charity/
+",/factchecks/2009/mar/11/robert-gibbs/No-wonder-the-rich-give-so-much-to-charity/
 "['National', 'Stimulus', 'Taxes', 'Americans United for Change']","
 Republicans opposed Obama's stimulus but not tax cuts
-","In its latest installment of cable ads suggesting that Rush Limbaugh is the de facto leader of the Republican Party, the liberal Americans United for Change takes Republican leaders to task for failing to support the Democrats' economic stimulus package. In particular, we were intrigued by the counterintuitive suggestion that several prominent Republicans are against tax cuts for working families. ""Republican leaders,"" the announcer begins. ""Their policies created the worst economic crisis in a generation. ""But what did they say to President Obama’s recovery plan?"" A series of ""no's"" follow from Republican leaders, set to Jacques Offenbach's can-can from ""Orpheus in the Underworld"" (you'll know it when you hear it, and yes, we had to look that up). The four leaders: Mitch McConnell, the Republican leader in the Senate; John Boehner, the leader of Republicans in the House; Eric Cantor, the House Republican whip; and Sen. John Cornyn of Texas. ""…To tax cuts for 95% of working Americans?"" This time, the chorus of ""no's"" come courtesy of Sen. Jim DeMint; Alaska Gov. Sarah Palin; Michael Steele, chairman of the Republican National Committee; and McConnell. We're not even sure what Palin and Steele are doing here. Palin and Steele do not serve in the U.S. Congress. They could not vote on the stimulus plan. So their stated opposition to the bill amounted to nothing more than opinion. And the opinions they offered did not speak directly to the proposed tax cuts. More important, though, is the suggestion that these Republicans oppose tax cuts for working Americans. The stimulus package signed by Obama includes a tax credit for workers intended to offset payroll taxes. Single workers would get $400 and working couples would get $800. We have looked at this proposal in the past and confirmed that it would result in tax cuts for 95 percent of working families. And yes, most Republicans voted against that economic stimulus package. But Republican opposition to the bill overwhelmingly focused on the spending portion of the plan. Here's what Palin said about the stimulus plan in a news release: ""The governor recognizes that some form of economic stimulus is necessary, but not the bill that passed the Congress Friday. She has advocated for a package that includes federal spending for infrastructure, tax breaks for individuals and small businesses, and measures to address the housing situation. The governor believes the current legislation is too large and is not sufficiently focused on these objectives."" We note that Palin specifically states her support for a plan that includes ""tax breaks for individuals."" So what about the two Republicans in the ad who did vote against the bill? DeMint offered an alternative to the Democrats' stimulus plan called ""The American Option."" In a speech at the conservative Heritage Foundation on Jan. 29, 2009, DeMint lambasted the Democrats' stimulus spending as wasteful and reckless. His plan, developed by J.D. Foster and William Beach of the Heritage Foundation, would make permanent the temporary tax cuts of  2001 and 2003 — now set to expire in 2011.  DeMint also proposed to cut tax rates nearly across the board. According to Foster, DeMint's plan eliminated any tax relief to those who pay no income tax; Foster and DeMint have likened that to welfare. The only ones who wouldn't get a tax cut under that plan are people paying less than 10 percent now, Foster said.  The DeMint plan also called for permanent repeal of the alternative minimum tax; permanently extending the $1,000 per child tax credit; and repeal of the ""marriage tax"" penalty. Sounds to us like a tax break for working Americans. Asked about the Americans United for Change ad, a spokeswoman in McConnell's office noted that McConnell (and DeMint) voted in favor of an amendment to the stimulus package offered by Sen. John McCain that they say would have provided tax relief to all income tax payers. The McCain amendment, which failed by a party-line vote of 40 to 57, called for approximately $275 billion in tax cuts. McCain said it ""would eliminate the 3.1 percent payroll tax for all employees for one year and use general revenues to pay for the Social Security obligation. It would allocate $60 billion to lower the 10 percent tax bracket to 5 percent for one year. It would lower the 15 percent tax bracket to 10 percent for one year."" In other words, the Republican plans included tax breaks for workers too. Just not the variety proposed by the Obama administration. So yes, DeMint and McConnell voted against the Democratic stimulus plan. But they said they did so mostly because of objections to the spending portion of the plan. And they offered alternatives that included tax cuts for working families. To be sure, there are big differences in the distribution of tax cuts proposed by the two sides. But to say Republicans opposed tax cuts for working families based on opposition to the stimulus package grossly distorts the Republican position. We rate the ad's claim Barely True.",[<zip object at 0x000002809C335040>],/factchecks/2009/mar/10/americans-united-change/republicans-opposed-obamas-stimulus-not-tax-cuts/
+","In its latest installment of cable ads suggesting that Rush Limbaugh is the de facto leader of the Republican Party, the liberal Americans United for Change takes Republican leaders to task for failing to support the Democrats' economic stimulus package. In particular, we were intrigued by the counterintuitive suggestion that several prominent Republicans are against tax cuts for working families. ""Republican leaders,"" the announcer begins. ""Their policies created the worst economic crisis in a generation. ""But what did they say to President Obama’s recovery plan?"" A series of ""no's"" follow from Republican leaders, set to Jacques Offenbach's can-can from ""Orpheus in the Underworld"" (you'll know it when you hear it, and yes, we had to look that up). The four leaders: Mitch McConnell, the Republican leader in the Senate; John Boehner, the leader of Republicans in the House; Eric Cantor, the House Republican whip; and Sen. John Cornyn of Texas. ""…To tax cuts for 95% of working Americans?"" This time, the chorus of ""no's"" come courtesy of Sen. Jim DeMint; Alaska Gov. Sarah Palin; Michael Steele, chairman of the Republican National Committee; and McConnell. We're not even sure what Palin and Steele are doing here. Palin and Steele do not serve in the U.S. Congress. They could not vote on the stimulus plan. So their stated opposition to the bill amounted to nothing more than opinion. And the opinions they offered did not speak directly to the proposed tax cuts. More important, though, is the suggestion that these Republicans oppose tax cuts for working Americans. The stimulus package signed by Obama includes a tax credit for workers intended to offset payroll taxes. Single workers would get $400 and working couples would get $800. We have looked at this proposal in the past and confirmed that it would result in tax cuts for 95 percent of working families. And yes, most Republicans voted against that economic stimulus package. But Republican opposition to the bill overwhelmingly focused on the spending portion of the plan. Here's what Palin said about the stimulus plan in a news release: ""The governor recognizes that some form of economic stimulus is necessary, but not the bill that passed the Congress Friday. She has advocated for a package that includes federal spending for infrastructure, tax breaks for individuals and small businesses, and measures to address the housing situation. The governor believes the current legislation is too large and is not sufficiently focused on these objectives."" We note that Palin specifically states her support for a plan that includes ""tax breaks for individuals."" So what about the two Republicans in the ad who did vote against the bill? DeMint offered an alternative to the Democrats' stimulus plan called ""The American Option."" In a speech at the conservative Heritage Foundation on Jan. 29, 2009, DeMint lambasted the Democrats' stimulus spending as wasteful and reckless. His plan, developed by J.D. Foster and William Beach of the Heritage Foundation, would make permanent the temporary tax cuts of  2001 and 2003 — now set to expire in 2011.  DeMint also proposed to cut tax rates nearly across the board. According to Foster, DeMint's plan eliminated any tax relief to those who pay no income tax; Foster and DeMint have likened that to welfare. The only ones who wouldn't get a tax cut under that plan are people paying less than 10 percent now, Foster said.  The DeMint plan also called for permanent repeal of the alternative minimum tax; permanently extending the $1,000 per child tax credit; and repeal of the ""marriage tax"" penalty. Sounds to us like a tax break for working Americans. Asked about the Americans United for Change ad, a spokeswoman in McConnell's office noted that McConnell (and DeMint) voted in favor of an amendment to the stimulus package offered by Sen. John McCain that they say would have provided tax relief to all income tax payers. The McCain amendment, which failed by a party-line vote of 40 to 57, called for approximately $275 billion in tax cuts. McCain said it ""would eliminate the 3.1 percent payroll tax for all employees for one year and use general revenues to pay for the Social Security obligation. It would allocate $60 billion to lower the 10 percent tax bracket to 5 percent for one year. It would lower the 15 percent tax bracket to 10 percent for one year."" In other words, the Republican plans included tax breaks for workers too. Just not the variety proposed by the Obama administration. So yes, DeMint and McConnell voted against the Democratic stimulus plan. But they said they did so mostly because of objections to the spending portion of the plan. And they offered alternatives that included tax cuts for working families. To be sure, there are big differences in the distribution of tax cuts proposed by the two sides. But to say Republicans opposed tax cuts for working families based on opposition to the stimulus package grossly distorts the Republican position. We rate the ad's claim Barely True.",/factchecks/2009/mar/10/americans-united-change/republicans-opposed-obamas-stimulus-not-tax-cuts/
 "['National', 'Economy', 'Joe Biden']","
 Biden points out disparities between CEO and average worker pay
 ","
@@ -1493,7 +1493,7 @@ According to the Economic Policy Institute report, in 1965, U.S. CEOs in major c
 ""The major CEOs pay is otherworldly,"" said Larry Mishel, one of the authors of the Economic Policy Institute report.
  
 Biden's comments would have been ""literally true,"" as he said, if he used the term ""top"" CEOs, or some other qualifier to note that he was talking about average pay for CEOs at the nation's biggest corporations. Mishel thinks that's what people have in mind when you say average CEOs. But Biden ""literally"" said ""average"" CEOs, and for average CEOs, that's not correct. Average CEOs make a little less per day than the average worker makes in a year. We rate Biden's statement Half True.
-",[<zip object at 0x000002809750AA80>],/factchecks/2009/mar/06/joe-biden/biden-points-out-disparities-between-ceo-and-avera/
+",/factchecks/2009/mar/06/joe-biden/biden-points-out-disparities-between-ceo-and-avera/
 "['National', 'Health Care', 'Barack Obama']","
 Obama invokes Republican icons on health care
 ","
@@ -1536,4 +1536,4 @@ Healthcare Reform in America: A Reference Handbook
 Roosevelt and the Progressives, nicknamed the Bull Moose Party, lost the election to Woodrow Wilson, the Democratic Party candidate. Republican William Taft finished third.
  
 Clearly, Obama is on solid ground tracing the push for national health care back to Theodore Roosevelt. We find this claim to be True.
-",[<zip object at 0x000002809738ABC0>],/factchecks/2009/mar/05/barack-obama/Obama-goes-back-to-his-Republican-roots-on-health-/
+",/factchecks/2009/mar/05/barack-obama/Obama-goes-back-to-his-Republican-roots-on-health-/

@@ -1,4 +1,4 @@
-tags,sub_header,text_body,sources,quote_href
+tags,sub_header,text_body,quote_href
 "['National', 'Candidate Biography', 'Hillary Clinton']","
 Yes, from American Evita to The Very Unofficial Hillary Clinton Coloring Book
 ","
@@ -75,7 +75,7 @@ Our WorldCat search came up with 48 books. Wikipedia's list was more complete: 6
 So Clinton was in the ballpark. We rate her statement True.
  
  
-",[<zip object at 0x000002809A4A2980>],/factchecks/2008/apr/16/hillary-clinton/yes-from-american-evita-to-the-very-unof/
+",/factchecks/2008/apr/16/hillary-clinton/yes-from-american-evita-to-the-very-unof/
 "['National', 'Foreign Policy', 'Hillary Clinton']","
 A 9/11 denier? Yup
 ","
@@ -108,7 +108,7 @@ Tehran insists its nuclear program is peaceful and intended to expand energy sup
 The statement may be startling, but it's true. Clinton accurately summarized Ahmadeinejad's recent comments about 9/11. We judge her statement to be True.
  
  
-",[<zip object at 0x0000028097DCF340>],/factchecks/2008/apr/16/hillary-clinton/a-911-denier-yup/
+",/factchecks/2008/apr/16/hillary-clinton/a-911-denier-yup/
 "['National', 'Economy', 'Barack Obama']","
 Income inequality is on the rise
 ","At the Democratic debate in Philadelphia, Barack Obama made a case that working families need more help because they're facing harder economic times.
@@ -132,7 +132,7 @@ Critics may argue whether this change in income distribution is significant or n
 George W. Bush was to blame, a statement we found only Half-True
 
 . But the numbers show that income inequality is at a record high since the 1920s, so we find Obama's statement to be True.
-",[<zip object at 0x000002809701F380>],/factchecks/2008/apr/16/barack-obama/income-inequality-is-on-the-rise/
+",/factchecks/2008/apr/16/barack-obama/income-inequality-is-on-the-rise/
 "['National', 'Economy', 'Barack Obama']","
 Not the same old Bush plan
 ","In remarks at the Associated Press annual meeting on April 14, 2008, Sen. Barack Obama took a shot at Sen. John McCain's plans for Social Security.
@@ -172,7 +172,7 @@ There's a lot we don't know about how McCain would deal with the financial probl
  
 For these reasons, we rate Obama's characterization of McCain's plans to reform Social Security as False.
  
-",[<zip object at 0x000002809672A680>],/factchecks/2008/apr/16/barack-obama/not-the-same-old-bush-plan/
+",/factchecks/2008/apr/16/barack-obama/not-the-same-old-bush-plan/
 "['National', 'Candidate Biography', 'Barack Obama']","
 Obama's more right than he knows
 ","Illinois Sen. Barack Obama recently confronted the issue of equal rights for gays and lesbians with some history about his life.
@@ -197,7 +197,7 @@ Wallenstein said that although his number is off, Obama's point is still strikin
  
 We can't give Obama a straight-up true because his number is way off, but his larger point, that many states prohibited interracial marriage in the early 1960s, is correct.
  
-",[<zip object at 0x0000028097023200>],/factchecks/2008/apr/15/barack-obama/obamas-more-right-than-he-knows/
+",/factchecks/2008/apr/15/barack-obama/obamas-more-right-than-he-knows/
 "['National', 'Ethics', 'Barack Obama']","
 Public financing includes spending limits
 ","Barack Obama is still trying to lock up the Democratic nomination, but he's consistently been beating rivals Hillary Clinton and John McCain in one critical area: fundraising.
@@ -253,7 +253,7 @@ Obama's small donor network has implications beyond money, said Michael J. Malbi
 ""It's not the same thing as public financing, but I wouldn't get hung up about that,"" Malbin said. ""In a sense, calling it a 'parallel public financing system' undersells the importance of the small donor revolution.""
  
 We agree that Obama's network of small donors does imitate an important goal of public financing of encouraging political participation of small donors. But Obama omits the spending limits that public financing has and exaggerates his own donor network. His group of small donors be may positive for democracy, but it does not equate to public financing system. For this reason we find his statement that he has created a ""parallel public financing system"" to be only Half True.
-",[<zip object at 0x0000028097BB7E80>],/factchecks/2008/apr/15/barack-obama/public-financing-includes-spending-limits/
+",/factchecks/2008/apr/15/barack-obama/public-financing-includes-spending-limits/
 "['National', 'Foreign Policy', 'Focus on the Family Action']","
 The bill has no such spending requirement
 ","A letter from the conservative group Focus on the Family Action makes a multifaceted attack on Sen. Barack Obama in an attempt to portray him as someone who would be ""the most left-wing president in our nation's history.""
@@ -290,7 +290,7 @@ Now, maybe the president decides that in order to address extreme global poverty
  
 The statement — which began with Kincaid and was repeated by Focus on the Family Action — is False.
  
-",[<zip object at 0x00000280971D0D80>],/factchecks/2008/apr/15/focus-family-action/the-bill-has-no-such-spending-requirement/
+",/factchecks/2008/apr/15/focus-family-action/the-bill-has-no-such-spending-requirement/
 "['National', 'Education', 'LGBTQ', 'Focus on the Family Action']","
 One comment does not a platform make
 ","
@@ -329,7 +329,7 @@ Obama's campaign did not respond to questions about the Focus on the Family Acti
 In fact, the question in the debate was whether the candidates would be comfortable if that book was taught to their child in school. Obama said he would be okay with it. Focus on the Family's statement is a stretch at best. We rate the statement Barely True.
  
  
-",[<zip object at 0x0000028096DDC280>],/factchecks/2008/apr/15/focus-family-action/one-comment-does-not-a-platform-make/
+",/factchecks/2008/apr/15/focus-family-action/one-comment-does-not-a-platform-make/
 "['National', 'Federal Budget', 'John McCain']","
 The budget resolution isn't that clear
 ","With so much time between primaries, political junkies have to take their fun where they can find it. Thankfully, Sen. John McCain's campaign Web site has come up with an interactive widget — it describes it as a poll — that asks online visitors to guess how much ""the Democrats' budget resolution (would) raise America's tax bill.""
@@ -354,7 +354,7 @@ Democrats say they haven't yet made final decisions on which tax cuts will stay 
  
 It's all part of the dodgy nature of budget politics, but the fact remains that budget resolutions do not contain enough specific language for anyone to calculate a particular tax increase. For McCain to claim it's $500-billion is False.
  
-",[<zip object at 0x0000028097208700>],/factchecks/2008/apr/14/john-mccain/the-budget-resolution-isnt-that-clear/
+",/factchecks/2008/apr/14/john-mccain/the-budget-resolution-isnt-that-clear/
 "['National', 'Candidate Biography', 'Ethics', 'Barack Obama']","
 Obama not driving force
 ","
@@ -419,7 +419,7 @@ editorial that calls the 2007 law ""the strongest ethics legislation to emerge f
 Still, Obama exaggerates his role in the ethics debate, and his depiction of the 2007 lobbying and ethics overhaul omits significant historical context. We rule his claim to be Half-True.
  
  
-",[<zip object at 0x000002809A4BB480>],/factchecks/2008/apr/14/barack-obama/obama-not-driving-force/
+",/factchecks/2008/apr/14/barack-obama/obama-not-driving-force/
 "['National', 'Foreign Policy', 'Bill Clinton']","
 Not at night, not one time, not ...
 ","
@@ -477,7 +477,7 @@ Bosnia to be Pants on Fire wrong.
 Bill Clinton has implied that the media is biased and covers his wife too harshly. In Boonville, he seemed to lament that unfairness by warning, ""And some of them, when they're 60, they'll forget something when they're tired at 11 at night, too.""
  
 It seems bizarre that the former president would defend his wife's misstatements with even more of his own, but that appears to be the case. We find his rewriting of campaign history to merit his very own Pants on Fire ruling.
-",[<zip object at 0x000002809C139D40>],/factchecks/2008/apr/11/bill-clinton/not-at-night-not-one-time-not-/
+",/factchecks/2008/apr/11/bill-clinton/not-at-night-not-one-time-not-/
 "['National', 'Elections', 'Hillary Clinton']","
 He had it wrapped up in March
 ","Sen. Hillary Clinton is using her husband's journey to the presidency in 1992 as an example of why her presidential race is not over.
@@ -512,7 +512,7 @@ So while Clinton is right that her husband's nomination process stretched until 
  
 We rule her statement Barely True.
  
-",[<zip object at 0x0000028096F8F1C0>],/factchecks/2008/apr/09/hillary-clinton/he-had-it-wrapped-up-in-march/
+",/factchecks/2008/apr/09/hillary-clinton/he-had-it-wrapped-up-in-march/
 "['Environment', 'National', 'MoveOn.org']","
 Absences wrecked his rating
 ","The left-leaning organization MoveOn.org targeted Sen. John McCain in an e-mail to supporters, listing ""10 things you should know about John McCain (but probably don't).""
@@ -547,7 +547,7 @@ Despite McCain's low ratings, Jenkins considers him one of the three most reliab
  
 MoveOn's words about McCain's environmental record are literally true — because he's missed so many votes. As we noted in our previous item, his average score with the group between 2001 and 2006 was 44.3, but the e-mail gives the impression that McCain is rock-bottom on environmental issues. We rate this charge by Moveon.org to be Half True.
  
-",[<zip object at 0x000002809A3F1980>],/factchecks/2008/apr/08/moveon/absences-wrecked-his-rating/
+",/factchecks/2008/apr/08/moveon/absences-wrecked-his-rating/
 "['National', 'Welfare', 'Jay Carney']","
 Carney says Romney favored welfare forever legislation
 ","
@@ -607,7 +607,7 @@ Carney said that Romney ""supported policies that would have eliminated the time
 
 The claim stems from Romney’s support for a federal bill reauthorizing TANF, which allowed for certain waivers but did not specifically prohibit waivers of the time limit that people could stay on welfare.
 
-But the bill itself and numerous discussions of it indicate that time limits were simply not an issue. Carney’s claim takes the absence of a mention of them and turns it inside out to accuse Romney of supporting ""welfare forever"" policies. It’s a distortion that makes something out of nothing. We rate it False.",[<zip object at 0x0000028097D4CEC0>],/factchecks/2012/aug/09/jay-carney/carney-says-romney-favored-welfare-forever-legisla/
+But the bill itself and numerous discussions of it indicate that time limits were simply not an issue. Carney’s claim takes the absence of a mention of them and turns it inside out to accuse Romney of supporting ""welfare forever"" policies. It’s a distortion that makes something out of nothing. We rate it False.",/factchecks/2012/aug/09/jay-carney/carney-says-romney-favored-welfare-forever-legisla/
 "['National', 'Economy', 'Message Machine 2012', 'Priorities USA Action']","
 Pro-Obama group blames Romney in woman's death
 ","
@@ -686,7 +686,7 @@ The cancer came several years after he lost his job and her lack of coverage was
 We don’t know if the steel mill would have survived given overseas competition. It’s possible that Bain might have extended the life of the firm. And even the makers of the ad agree that it would be wrong to say Romney is responsible for the woman’s early death. 
 
 The ad uses innuendo for a serious allegation, but there's no proof directly linking the death to Bain. We rate the claim False.
- ",[<zip object at 0x0000028096B3CBC0>],/factchecks/2012/aug/09/priorities-usa-action/pro-obama-group-blames-romney-womans-death/
+ ",/factchecks/2012/aug/09/priorities-usa-action/pro-obama-group-blames-romney-womans-death/
 "['Federal Budget', 'Medicare', 'Message Machine 2012', 'Florida', 'American Commitment']","
 TV ad says Bill Nelson supported cutting Medicare by $500 billion to fund new government programs
 ","
@@ -713,7 +713,7 @@ Nelson was among the 60 votes in favor of the bill on Dec. 24, 2009, providing t
 American Commitment claims Bill Nelson voted to slash $500 billion from Medicare to fund other programs. Our previous rulings have shown that there is no vast well of money already allocated that is being cut, and the programs being funded are a part of government health care services, of which Medicare is the largest.
 
 Yet again, we rate this claim as Mostly False.
- ",[<zip object at 0x000002809A3E4680>],/factchecks/2012/aug/09/american-commitment/tv-ad-says-bill-nelson-supported-cutting-medicare-/
+ ",/factchecks/2012/aug/09/american-commitment/tv-ad-says-bill-nelson-supported-cutting-medicare-/
 "['Environment', 'Oregon', 'Elections', 'Government Regulation', 'Salmon for All']","
 Would proposed ban target only Oregon commercial gillnetters, leave Washington fishermen free to use gillnets on the Columbia?
 ","
@@ -749,7 +749,7 @@ The point made by Brenda Wall is that the measure does nothing to prevent Washin
 
 It is not accurate to say that the Oregon ban would apply only to Oregon commercial fishermen. It is accurate to say that Washington commercial fishermen can continue to use gillnets in the Columbia -- so long as they stick to their side of the river.
 
-One part of the statement is true and the other part is not true. We split the statement -- like the Columbia River -- down the middle and rate it Half True.",[<zip object at 0x000002809C16CD40>],/factchecks/2012/aug/09/salmon-all/would-proposed-ban-target-only-oregon-commercial-g/
+One part of the statement is true and the other part is not true. We split the statement -- like the Columbia River -- down the middle and rate it Half True.",/factchecks/2012/aug/09/salmon-all/would-proposed-ban-target-only-oregon-commercial-g/
 "['Immigration', 'Elections', 'Message Machine 2012', 'Florida', 'Heather Fiorentino']","
 Heather Fiorentino said Kurt Browning ""allowed 1,800 illegal voters to register in Florida""
 ","
@@ -784,7 +784,7 @@ Fiorentino accused Browning of ""allowing 1,800 illegal voters to register in Fl
 Her number is wrong. The state's initial list of 180,000 names never identified voters as illegal, but rather created a starting point for further verification. The state later stopped using the list, deeming the data unreliable. 
 The secretary of state does not register voters in Florida, nor does he have the authority to remove them from the rolls. That's the job of county elections supervisors. And Browning was not secretary of state during the entire time the people on that list registered to vote. 
 Fiorentino played fast and loose with her claim in an effort to discredit her opponent on election eve. 
-We rule her claim Pants on Fire!",[<zip object at 0x0000028097056240>],/factchecks/2012/aug/09/heather-fiorentino/heather-fiorentino-said-kurt-browning-allowed-1800/
+We rule her claim Pants on Fire!",/factchecks/2012/aug/09/heather-fiorentino/heather-fiorentino-said-kurt-browning-allowed-1800/
 "['New Jersey', 'Candidate Biography', 'Guns', 'Upendra Chivukula']","
 Upendra Chivukula claims Leonard Lance was “not for guns” in 2008
 ","
@@ -827,7 +827,7 @@ The survey Chivukula’s campaign cited shows Lance, as a state legislator, favo
 
 We rate this statement Mostly False.
 
-To comment on this ruling, go to NJ.com.",[<zip object at 0x0000028096D0EF80>],/factchecks/2012/aug/09/upendra-chivukula/upendra-chivukula-claims-leonard-lance-was-not-gun/
+To comment on this ruling, go to NJ.com.",/factchecks/2012/aug/09/upendra-chivukula/upendra-chivukula-claims-leonard-lance-was-not-gun/
 "['Ohio', 'Congress', 'Elections', 'Redistricting', 'Protect Your Vote Ohio']","
 Opponents of Ohio redistricting issue say politicians could still be included in proposed redistricting process
 ","
@@ -880,7 +880,7 @@ Protect Your Vote Ohio was correct when it said thousands of politicians would b
 
 Still, the amendment would remove the state and federal politicians who up to this point have controlled the process and reaped the benefits. That’s an important point of clarification.
 
-We rate the statement Mostly True.",[<zip object at 0x0000028097B1E3C0>],/factchecks/2012/aug/09/protect-your-vote-ohio-protect-your-vote-ohio/opponents-ohio-redistricting-issue-say-politicians/
+We rate the statement Mostly True.",/factchecks/2012/aug/09/protect-your-vote-ohio-protect-your-vote-ohio/opponents-ohio-redistricting-issue-say-politicians/
 "['Rhode Island', 'Economy', 'Jobs', 'Social Security', 'Allen West']","
 West says more people went on Social Security Disability Insurance in June than jobs created
 ","U.S. Rep. Allen West, a Florida Republican, was in Rhode Island last weekend on a fundraising trip.
@@ -926,7 +926,7 @@ The Obama administration referred to the program’s costs when it argued for ex
 Our ruling
 
 Rep. Allen West said that the number of people who became recipients of Social Security Disability in June (85,000) was higher than the number of jobs created that month (80,000). West quoted the numbers accurately.  We rate his statement  True.
- ",[<zip object at 0x000002809C131040>],/factchecks/2012/aug/09/allen-west/us-rep-allen-west-d-fla-says-number-people-who-wen/
+ ",/factchecks/2012/aug/09/allen-west/us-rep-allen-west-d-fla-says-number-people-who-wen/
 "['Health Care', 'Wisconsin', 'Eric Hovde']","
 GOP candidate for US Senate Hovde claims Obamacare levies 10 years of taxes for 6 years of benefits
 ","
@@ -968,7 +968,7 @@ Our rating
 
 Hovde repeats a claim that’s been a routine part of the GOP attack on Obamacare: that there are 10 years of taxes charged for six years of benefits. It’s true that the tax money began to come in starting in 2010. But it’s false that the benefits don’t kick in until 2014. There are numerous parts of the bill that have already taken effect.
 
-Hovde joins the crowd who have made the same claim. It’s Half True.",[<zip object at 0x0000028097A48040>],/factchecks/2012/aug/08/eric-hovde/gop-candidate-us-senate-hovde-claims-obamacare-lev/
+Hovde joins the crowd who have made the same claim. It’s Half True.",/factchecks/2012/aug/08/eric-hovde/gop-candidate-us-senate-hovde-claims-obamacare-lev/
 "['National', 'Economy', 'Jobs', 'Message Machine 2012', 'Mitt Romney']","
 Mitt Romney says 90 percent of cities saw unemployment rise in June
 ","
@@ -1018,7 +1018,7 @@ The ad claims that ""in June, jobless ranks were higher in nearly 90 percent of 
 
 The data the campaign relied on was not seasonally adjusted, so unemployment levels were exaggerated by the sudden graduation of high school and college students -- a caveat that was specifically noted high up in the story that the ad cited as its source.
 
-As it turns out, even the highest seasonally adjusted calculation we made is just half the size of the 90 percent cited in the ad. And excluding volatile month-to-month figures by looking at a full year-long comparison actually leads to the exact opposite conclusion from the one drawn in the ad: Better than 90 percent of metro areas saw unemployment drop, not rise, over the previous year. We rate this claim Mostly False.",[<zip object at 0x0000028097038580>],/factchecks/2012/aug/08/mitt-romney/mitt-romney-says-90-percent-cities-saw-unemploymen/
+As it turns out, even the highest seasonally adjusted calculation we made is just half the size of the 90 percent cited in the ad. And excluding volatile month-to-month figures by looking at a full year-long comparison actually leads to the exact opposite conclusion from the one drawn in the ad: Better than 90 percent of metro areas saw unemployment drop, not rise, over the previous year. We rate this claim Mostly False.",/factchecks/2012/aug/08/mitt-romney/mitt-romney-says-90-percent-cities-saw-unemploymen/
 "['Abortion', 'National', 'Message Machine 2012', 'Sexuality', 'Women', 'Barack Obama']","
 Barack Obama says Mitt Romney opposes contraception mandate and would cut Planned Parenthood funding
 ","Barack Obama's campaign must see an opportunity to peel support among women voters away from Mitt Romney because it is running its second ad in two weeks attacking Romney for his stand on reproductive issues. The latest television commercial features two women, Dawn and Alex, talking about Romney. Dawn: ""I think Mitt Romney’s really out of touch on women’s health issues.""
@@ -1073,7 +1073,7 @@ The Obama campaign ad said that Mitt Romney opposes requiring employers to cover
 
 Romney has said he would abolish the contraceptive coverage requirement and he has said repeatedly that he would eliminate federal funding for Planned Parenthood.  
 
-We rate the statement True.",[<zip object at 0x0000028097B3FFC0>],/factchecks/2012/aug/08/barack-obama/obama-slams-romney-on-contraception-and-planned-pa/
+We rate the statement True.",/factchecks/2012/aug/08/barack-obama/obama-slams-romney-on-contraception-and-planned-pa/
 "['Debt', 'Deficit', 'Taxes', 'Wisconsin', 'Mark Neumann']","
 In GOP Wisconsin Senate primary, Mark Neumann says that in 4 years in House, he never voted to raise taxes
 ","
@@ -1107,7 +1107,7 @@ Neumann said he never voted for a tax increase.
 
 But looking at just two of the major bills he supported, although they contained $370 billion in tax decreases, they also contained $130 billion in tax increases.
 
-We rate Neumann’s statement False.",[<zip object at 0x0000028097477840>],/factchecks/2012/aug/08/mark-neumann/gop-wisconsin-senate-primary-mark-neumann-says-4-y/
+We rate Neumann’s statement False.",/factchecks/2012/aug/08/mark-neumann/gop-wisconsin-senate-primary-mark-neumann-says-4-y/
 "['Agriculture', 'Ohio', 'States', 'Water', 'Weather', 'John Kasich']","
 Ohio Gov. John Kasich says the drought has left 90 percent of the state’s topsoil too dry for crops
 ","Ohio Gov. John Kasich may not know much about planting crops, but he knows how to pick an audience. When the GOP governor was looking for a place on July 25 to announce the state's plans to ask the federal government to declare a drought emergency in Ohio, he headed for the Ohio State Fair.
@@ -1137,7 +1137,7 @@ So where does that leave our agrarian-minded governor as we harvest our crop of 
 
 While an argument could be made that the weekly crop weather report shows only that 90 percent of the Ohio topsoil is inadequate to grow ""normal"" crops, we think it’s clear that’s what Kasich meant in his remarks, even though he didn't use the word normal.
 
-We rate his statement True.",[<zip object at 0x0000028097912740>],/factchecks/2012/aug/08/john-kasich/ohio-gov-john-kasich-says-drought-has-left-90-perc/
+We rate his statement True.",/factchecks/2012/aug/08/john-kasich/ohio-gov-john-kasich-says-drought-has-left-90-perc/
 "['Georgia', 'Education', 'State Budget', 'Fran Millar']","
 Did lawmaker get a good grade on education claim?
 ","
@@ -1193,7 +1193,7 @@ Millar’s larger point is that the state has not made major cuts in education s
 
 The 1 percent cut in education spending between FY 2011 and FY 2012 was the smallest among 10 of Georgia’s largest departments and among those with billion-dollar budgets, which supports Millar’s quote in the AJC. Millar’s argument loses some steam when examining spending between FY 2009 and now. We found a few larger departments with smaller percentage cuts than education. Additionally, there are some large departments with budget increases. 
 
-Millar’s quote is accurate on some levels, but there are some details we found that lower his grade-point average on this statement. We rate the senator’s claim Half True.",[<zip object at 0x0000028097D04D00>],/factchecks/2012/aug/08/fran-millar/did-lawmaker-get-good-grade-education-claim/
+Millar’s quote is accurate on some levels, but there are some details we found that lower his grade-point average on this statement. We rate the senator’s claim Half True.",/factchecks/2012/aug/08/fran-millar/did-lawmaker-get-good-grade-education-claim/
 "['National', 'Message Machine 2012', 'Welfare', 'Mitt Romney']","
 Mitt Romney says Barack Obama’s plan for welfare reform: ""They just send you your check.""
 ","Forget, for a moment, tax cuts and the fiscal cliff. Mitt Romney wants to talk about welfare.
@@ -1252,7 +1252,7 @@ That's a drastic distortion of the planned changes to Temporary Assistance to Ne
 
 The ad tries to connect the dots to reach this zinger: ""They just send you your welfare check."" The HHS memo in no way advocates that practice. In fact, it says the new policy is ""designed to improve employment outcomes for needy families.""
 
-The ad’s claim is not accurate, and it inflames old resentments about able-bodied adults sitting around collecting public assistance. Pants on Fire!  ",[<zip object at 0x000002809767AB00>],/factchecks/2012/aug/07/mitt-romney/mitt-romney-says-barack-obamas-plan-abandons-tenet/
+The ad’s claim is not accurate, and it inflames old resentments about able-bodied adults sitting around collecting public assistance. Pants on Fire!  ",/factchecks/2012/aug/07/mitt-romney/mitt-romney-says-barack-obamas-plan-abandons-tenet/
 "['National', 'Israel', 'Foreign Policy', 'Message Machine 2012', 'Mitt Romney']","
 Mitt Romney says Barack Obama rejects Jerusalem as capital of Israel
 ","
@@ -1298,7 +1298,7 @@ The ad says Obama ""refuses to recognize Jerusalem"" as the capital of Israel.
 
 As a candidate, Obama identified Jerusalem as Israel’s capital. But as president since then, he has shied away from making statements that could be perceived as taking sides in the ongoing peace process. That’s not so much a refusal on his part but a continuation of the line taken before him by previous presidents. Formally, the United States does not recognize any state as having sovereignty over Jerusalem. Both the state department and CIA under his administration note Jerusalem as Israel’s capital, with a footnote attached.
 
-Romney’s ad portrays Obama’s position as a betrayal of an ally. That’s misleading. We rate it Half True.",[<zip object at 0x0000028097067E80>],/factchecks/2012/aug/07/mitt-romney/romney-says-obama-rejects-jerusalem-capital-israel/
+Romney’s ad portrays Obama’s position as a betrayal of an ally. That’s misleading. We rate it Half True.",/factchecks/2012/aug/07/mitt-romney/romney-says-obama-rejects-jerusalem-capital-israel/
 "['National', 'Israel', 'Message Machine 2012', 'Mitt Romney']","
 Mitt Romney says Barack Obama has not visited Israel as president
 ","
@@ -1328,4 +1328,4 @@ Our colleagues at the Washington Post’s Fact-Checker column delved into the ar
 
 The Obama campaign, when we asked for a response, pointed out that Republicans Ronald Reagan and George H. W. Bush were among those who never went to Israel. Democratic Presidents Jimmy Carter and Bill Clinton were the only ones to visit during their first term. George W. Bush went to Israel twice during his last year in office.
 
-That historical context is noteworthy: A majority of the last 11 presidents did not visit Israel. But the Romney ad’s claim is still accurate. We rate it True.",[<zip object at 0x000002809A48C180>],/factchecks/2012/aug/07/mitt-romney/romney-says-obama-has-not-visited-israel-president/
+That historical context is noteworthy: A majority of the last 11 presidents did not visit Israel. But the Romney ad’s claim is still accurate. We rate it True.",/factchecks/2012/aug/07/mitt-romney/romney-says-obama-has-not-visited-israel-president/

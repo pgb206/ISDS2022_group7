@@ -1,4 +1,4 @@
-tags,sub_header,text_body,sources,quote_href
+tags,sub_header,text_body,quote_href
 "['Candidate Biography', 'Taxes', 'Florida', 'Debbie Wasserman Schultz']","
 Candidates in modern times have released 12 years of tax returns, says Debbie Wasserman Schultz
 ","Democratic National Committee chair Debbie Wasserman Schultz went on Fox News Aug. 12 to criticize Mitt Romney’s vice presidential pick, U.S. Rep. Paul Ryan, R-Wis.
@@ -39,7 +39,7 @@ When we contacted the DNC about this fact-check, they sent us a statement saying
 
 Our ruling Wasserman Schultz said, ""Mitt Romney is the first major party candidate for president of the United States in modern times not to release at least 12 years of tax returns.""
 
-There are several examples of major party candidates for president in modern times who released fewer than 12 tax returns. And those examples have been highlighted in recent news articles. Wasserman Schultz’s claim is not correct, and we rate the statement False. https://www.sharethefacts.co/share/b2415e9e-2c2b-402f-8451-cf2041d0e8c8",[<zip object at 0x000002809C471980>],/factchecks/2012/aug/14/debbie-wasserman-schultz/major-candidates-modern-times-have-release-12-year/
+There are several examples of major party candidates for president in modern times who released fewer than 12 tax returns. And those examples have been highlighted in recent news articles. Wasserman Schultz’s claim is not correct, and we rate the statement False. https://www.sharethefacts.co/share/b2415e9e-2c2b-402f-8451-cf2041d0e8c8",/factchecks/2012/aug/14/debbie-wasserman-schultz/major-candidates-modern-times-have-release-12-year/
 "['Ohio', 'Debt', 'Economy', 'Message Machine 2012', ""Workers' Voice""]","
 Workers' Voice ad says Josh Mandel bet against Ohio families
 ","
@@ -95,7 +95,7 @@ So an OSU finance professor was betting on default, too?
 
 "" I wasn’t betting on the government defaulting,"" Boa said. ""I was betting on interest rates going up.""
 
-In all the world’s possibilities, default was one. In probabilities, it was not. As we noted, the JMS Trust appeared to buy additional shares of this ETF subsequent to last August’s debt-ceiling showdown. That’s an additional factor that makes the ad’s claim -- that Mandel was betting against Ohio families -- far-fetched. The claim relies on one extreme possibility -- a possibility that has never occurred -- and runs with it, ignoring the other reasons why a trust fund or even a finance professor might choose this investment. That’s just ridiculous. Pants on Fire!",[<zip object at 0x000002809BFF0240>],/factchecks/2012/aug/14/workers-voice/workers-voice-ad-says-josh-mandel-bet-against-ohio/
+In all the world’s possibilities, default was one. In probabilities, it was not. As we noted, the JMS Trust appeared to buy additional shares of this ETF subsequent to last August’s debt-ceiling showdown. That’s an additional factor that makes the ad’s claim -- that Mandel was betting against Ohio families -- far-fetched. The claim relies on one extreme possibility -- a possibility that has never occurred -- and runs with it, ignoring the other reasons why a trust fund or even a finance professor might choose this investment. That’s just ridiculous. Pants on Fire!",/factchecks/2012/aug/14/workers-voice/workers-voice-ad-says-josh-mandel-bet-against-ohio/
 "['Georgia', 'Elections', 'Warren Kampf']","
 Lawmaker uses Georgia to push voter ID law
 ","
@@ -153,7 +153,7 @@ It’s correct that black voter turnout in Georgia did increase between the 2004
 
 Kampf’s statement is accurate, but it needs some clarification and context. 
 
-Our rating: Mostly True.",[<zip object at 0x0000028097DCEBC0>],/factchecks/2012/aug/14/warren-kampf/lawmaker-uses-georgia-push-voter-id-law/
+Our rating: Mostly True.",/factchecks/2012/aug/14/warren-kampf/lawmaker-uses-georgia-push-voter-id-law/
 "['Message Machine 2012', 'State Budget', 'Florida', 'Rob Turner']","
 Sen. Ronda Storms voted for the courthouse known as the 'Taj Mahal,' says opponent Rob Turner
 ","
@@ -209,7 +209,7 @@ Turner says in a mailer that Storms ""voted to fund the ‘Taj Mahal’ Courthou
 
 Namely, the courthouse money was inserted at the last minute into a larger bill without much explanation. The money, as far as most lawmakers knew, was to build a courthouse, not an opulent one. Once details of the ‘Taj’ became known, Storms openly criticized the plan.
 
-We rate this claim Mostly True.",[<zip object at 0x0000028097AD9100>],/factchecks/2012/aug/13/rob-turner/sen-ronda-storms-voted-courthouse-known-taj-mahal-/
+We rate this claim Mostly True.",/factchecks/2012/aug/13/rob-turner/sen-ronda-storms-voted-courthouse-known-taj-mahal-/
 "['Candidate Biography', 'Energy', 'Government Regulation', 'Voting Record', 'Florida', 'Gloria Romero Roses']","
 Gloria Romero Roses says congressional candidate Joe Garcia ""voted to raise our utility rates""
 ","
@@ -279,7 +279,7 @@ But Garcia’s tenure on the commission can’t be boiled down into a simple sen
 
 Whether all of Garcia’s votes for increases or decreases add up to on average less or more for a consumer could vary depending on where that consumer lived at the time.
 
-We rate this claim Half True.",[<zip object at 0x0000028096BCE5C0>],/factchecks/2012/aug/13/gloria-romero-roses/gloria-romero-roses-says-congressional-candidate-j/
+We rate this claim Half True.",/factchecks/2012/aug/13/gloria-romero-roses/gloria-romero-roses-says-congressional-candidate-j/
 "['Corrections and Updates', 'Taxes', 'Texas', 'Paul Begala']","
 Paul Begala says Mitt Romney said he would pay no taxes under Paul Ryan's tax plan
 ","The day after Mitt Romney introduced U.S. Rep. Paul Ryan of Wisconsin as his running mate, Democratic activist Paul Begala suggested the presumptive Republican presidential nominee took into account how he would personally fare under Ryan’s wide-reaching proposal for overhauling federal taxes.
@@ -317,7 +317,7 @@ Our ruling
 Contrary to Begala’s claim, Romney was not zeroing in on how he would fare under Ryan’s tax plan when he said he would have paid no taxes the past two years under ""that plan."" He spoke instead to Gingrich’s proposal to eliminate capital gains taxes for all taxpayers -- which Romney does not advocate.
 
 Like Gingrich, though, Ryan calls for wiping out the capital gains tax for everyone, leaving this claim with an element of truth. We rate the statement Mostly False.                                                                                                                                                                                                                            UPDATE, 11:20 am, Aug. 14, 2012: After we posted this article, we were happy to hear back about Begala’s source for his claim. We added that information to the article. Our rating is unchanged.
- ",[<zip object at 0x0000028097C24840>],/factchecks/2012/aug/13/paul-begala/paul-begala-says-mitt-romney-said-he-would-pay-no-/
+ ",/factchecks/2012/aug/13/paul-begala/paul-begala-says-mitt-romney-said-he-would-pay-no-/
 "['National', 'Ethics', 'Message Machine 2012', 'Taxes', 'Barack Obama']","
 Barack Obama links Mitt Romney to infamous tax shelter 'Son of Boss'
 ","
@@ -385,7 +385,7 @@ Marriott International used Son of Boss. At the time, the illegality of the sche
 
 Romney was head of Marriott’s audit committee at the time. Experts disagree on whether the corporate board would have known about the deal and had the chance to question it. The company neither confirmed nor denied that the board approved the transaction. At some point, the board would have approved filings that included the fraudulent losses, but it’s unclear whether Romney specifically favored the tax move.
 
-The statement includes a measure of truth but ignores important context. We rate it Half True.",[<zip object at 0x00000280977A53C0>],/factchecks/2012/aug/13/barack-obama/obama-links-romney-infamous-tax-shelter/
+The statement includes a measure of truth but ignores important context. We rate it Half True.",/factchecks/2012/aug/13/barack-obama/obama-links-romney-infamous-tax-shelter/
 "['Immigration', 'Health Care', 'Florida', 'Floridians for Ethics and Truth in Politics']","
 Outside group claims Aaron Bean voted to give health care subsidies to illegal aliens
 ","
@@ -436,7 +436,7 @@ Floridians for Ethics and Truth in Politics says Bean voted to give health care 
 
 The group, however, misrepresents the bill’s intent by saying ""not qualified legal aliens"" is the same as ""illegal immigrants."" That’s not true. The bottom line is HB 7189 -- which never passed -- would have applied to children legally allowed to be in the United States.
 
-We rate the claim False.",[<zip object at 0x0000028097B0C2C0>],/factchecks/2012/aug/13/floridians-ethics-and-truth-politics/outside-group-claims-aaron-bean-voted-give-health-/
+We rate the claim False.",/factchecks/2012/aug/13/floridians-ethics-and-truth-politics/outside-group-claims-aaron-bean-voted-give-health-/
 "['New Jersey', 'Elections', 'Anna Little']","
 Congressional candidate Anna Little claims she “made history” in nearly defeating Rep. Frank Pallone in 2010
 ","
@@ -473,7 +473,7 @@ There’s no doubt that Pallone’s victory over Little in 2010 was one of the c
 The congressman’s margin of victory represented his tightest win in 20 years -- not 24 years -- and the third-closest finish of all his races for a two-year House seat. Pallone won by even fewer votes in 1988 and 1990.
 
 We rate the statement False. 
-To comment on this ruling, go to NJ.com.",[<zip object at 0x0000028096FA3300>],/factchecks/2012/aug/13/anna-little/congressional-candidate-anna-little-claims-she-mad/
+To comment on this ruling, go to NJ.com.",/factchecks/2012/aug/13/anna-little/congressional-candidate-anna-little-claims-she-mad/
 "['Welfare', 'Virginia', 'Bob McDonnell']","
 Bob McDonnell says Obama is ""unwinding"" welfare-to-work requirements
 ","
@@ -525,7 +525,7 @@ McDonnell said the Obama administration is  ""unwinding"" welfare-to-work requi
 
 But a new Obama program does not end welfare-to-work mandates. To the contrary, it strengthens the requirements by granting waivers to states seeking to make the work requirements more successful. The waivers would be granted to pilot programs that are individually evaluated; HHS is not proposing a blanket national change to welfare law.
 
-We rate McDonnell’s statement False.",[<zip object at 0x0000028097AD0F40>],/factchecks/2012/aug/13/bob-mcdonnell/bob-mcdonnell-says-obama-unwinding-welfare-work-re/
+We rate McDonnell’s statement False.",/factchecks/2012/aug/13/bob-mcdonnell/bob-mcdonnell-says-obama-unwinding-welfare-work-re/
 "['Ohio', 'Congress', 'Federal Budget', 'Foreign Policy', 'Message Machine 2012', 'Stimulus', 'Josh Mandel']","
 Ohio Treasurer Josh Mandel says U.S. Sen. Sherrod Brown has sent billions of our tax dollars to foreign countries
 ","
@@ -581,7 +581,7 @@ The ad claims Brown sent billions of dollars to foreign countries. The informati
 When confronted with those facts, the Mandel campaign offered as support for its claim that Brown votes for appropriations for U.S. foreign operations. That's the money for embassies, war-related spending to help establish new governments and the U.S. portions of international missions. That's a ridiculous stretch from what the ad implies, which is that Brown tried to hide that he irresponsibly sent billions or our tax dollars to foreign countries.
 
 We have a rating for statements that are both false and ridiculous. It's Pants on Fire.
- ",[<zip object at 0x0000028096F91C40>],/factchecks/2012/aug/13/josh-mandel/ohio-treasurer-josh-mandel-says-us-sen-sherrod-bro/
+ ",/factchecks/2012/aug/13/josh-mandel/ohio-treasurer-josh-mandel-says-us-sen-sherrod-bro/
 "['Georgia', 'State Budget', 'Tourism', 'Ron Stephens']","
 Tourism advertising is not on Georgia's mind, lawmaker says
 ","
@@ -649,7 +649,7 @@ Stephens said that Georgia’s state government spends fewer tourism advertising
 
 In dollars, Stephens was close. Only Kentucky spends less.
 
-Stephens earns a True.",[<zip object at 0x000002809719BF40>],/factchecks/2012/aug/13/ron-stephens/tourism-advertising-not-georgias-mind-lawmaker-say/
+Stephens earns a True.",/factchecks/2012/aug/13/ron-stephens/tourism-advertising-not-georgias-mind-lawmaker-say/
 "['Tennessee', 'Privacy Issues', 'Mark Clayton']","
 Disavowed Democratic Senate primary winner claims TSA makes non-straight employees grab children
 ","
@@ -673,7 +673,7 @@ Allen also sent along TSA policy statements on Civil Rights, the screening of ch
 
 Our ruling
 
-The state Democratic Party’s disavowal of Clayton is but one indication of his lack of credibility. This kind of baseless statement is yet another. The TSA does not mandate that any of its screeners ""grope"" children in any ""zone."" Clayton is making a ridiculous, reckless claim, and for that we give this statement a Pants On Fire!",[<zip object at 0x00000280968B0180>],/factchecks/2012/aug/13/mark-clayton/disavowed-democratic-senate-primary-winner-claims-/
+The state Democratic Party’s disavowal of Clayton is but one indication of his lack of credibility. This kind of baseless statement is yet another. The TSA does not mandate that any of its screeners ""grope"" children in any ""zone."" Clayton is making a ridiculous, reckless claim, and for that we give this statement a Pants On Fire!",/factchecks/2012/aug/13/mark-clayton/disavowed-democratic-senate-primary-winner-claims-/
 "['New Jersey', 'Taxes', 'New Jersey Democratic State Committee']","
 Mitt Romney’s tax cut proposal blasted by New Jersey Democrats for using $2,000 middle-class tax hike to cover $5 trillion in tax cuts for the rich
 ","
@@ -718,7 +718,7 @@ But those two figures don’t relate to one another. The $2,000 tax hike account
 Still, the Democrats’ overall point is correct: the study shows that high-income taxpayers would receive a tax break, while middle- and lower-income taxpayers pay higher taxes.
 
 We rate the statement Half True. 
-To comment on this ruling, go to NJ.com.",[<zip object at 0x0000028097B4F300>],/factchecks/2012/aug/12/new-jersey-democratic-state-committee/mitt-romneys-tax-cut-proposal-blasted-new-jersey-d/
+To comment on this ruling, go to NJ.com.",/factchecks/2012/aug/12/new-jersey-democratic-state-committee/mitt-romneys-tax-cut-proposal-blasted-new-jersey-d/
 "['Tennessee', 'Education', 'Lottery', 'Dolores Gresham']","
 Education chair Gresham said she didn’t push bill she sponsored to raise eligibility standards for Hope Scholarships
 ","
@@ -753,7 +753,7 @@ As chairman of the task force, Gresham sponsored the task force’s recommendati
 --On April 16, the bill was debated for 46 minutes on the Senate floor before winning approval on a 20-10 vote, with all Republicans favoring it and all but four Democrats opposing it. Gresham made her most vocal arguments for the bill here, against specific arguments raised by Democratic Sens. Berke, Jim Kyle (Memphis) and Roy Herron (Dresden). Gresham moved an amendment on the bill and tabled another.  
 
 Our ruling  
-It may be a quibble over semantics, but we think when the record shows that a state Senate committee chairwoman sponsored a bill, argued for its passage through two separate committee, tabled amendments offered by opponents and led it to passage on the Senate floor, that qualifies as trying to push for a bill. On the Senate floor, only one other member even spoke in favor of the bill in the entire 45-minute floor debate. We rule this statement False.",[<zip object at 0x0000028097D75840>],/factchecks/2012/aug/12/dolores-gresham/education-chair-gresham-said-she-didnt-push-bill-s/
+It may be a quibble over semantics, but we think when the record shows that a state Senate committee chairwoman sponsored a bill, argued for its passage through two separate committee, tabled amendments offered by opponents and led it to passage on the Senate floor, that qualifies as trying to push for a bill. On the Senate floor, only one other member even spoke in favor of the bill in the entire 45-minute floor debate. We rule this statement False.",/factchecks/2012/aug/12/dolores-gresham/education-chair-gresham-said-she-didnt-push-bill-s/
 "['Rhode Island', 'Economy', 'Health Care', 'Government Regulation', 'Public Health', 'States', 'Mike Stenhouse']","
 R.I. Center for Freedom and Prosperity CEO Mike Stenhouse says Rhode Island has the most health-insurance mandates in U.S.
 ","
@@ -818,7 +818,7 @@ Although Stenhouse cites a national study that lists Rhode Island as being in fi
 
 We rate his statement as Half True.
 
-(Get updates from PolitiFact Rhode Island on Twitter: @politifactri. To comment or offer your ruling, visit us on our PolitiFact Rhode Island Facebook page.)",[<zip object at 0x0000028097BD7040>],/factchecks/2012/aug/12/mike-stenhouse/ri-center-freedom-and-prosperity-ceo-mike-stenhous/
+(Get updates from PolitiFact Rhode Island on Twitter: @politifactri. To comment or offer your ruling, visit us on our PolitiFact Rhode Island Facebook page.)",/factchecks/2012/aug/12/mike-stenhouse/ri-center-freedom-and-prosperity-ceo-mike-stenhous/
 "['Education', 'Texas', 'Gail  Collins']","
 Gail Collins says Texas GOP platform calls for schools to stop teaching “critical thinking”
 ","New York Times columnist Gail Collins’ latest book, ""As Texas Goes,"" takes the state to task for, well, being Texas. And her Aug. 1, 2012, column did pretty much the same.
@@ -870,7 +870,7 @@ As Collins says, the Texas GOP platform does state that the party opposes ""crit
 
 That’s just the kind of situation addressed in PolitiFact’s definition of Half True: ""The statement is partially accurate but leaves out important details or takes things out of context.""
 
-By those lights, Collins’ statement is Half True.",[<zip object at 0x00000280976EFDC0>],/factchecks/2012/aug/11/gail-collins/gail-collins-says-texas-gop-platform-calls-schools/
+By those lights, Collins’ statement is Half True.",/factchecks/2012/aug/11/gail-collins/gail-collins-says-texas-gop-platform-calls-schools/
 "['Oregon', 'City Budget', 'County Budget', 'Multnomah County Library Foundation']","
 Would a library taxing district come at no cost to Portland's budget?
 ","
@@ -914,7 +914,7 @@ As Sumrall noted -- both when we spoke to her and in the corrected newsletter --
 
 In the original e-mail, the Library Foundation asserted that the district would come at ""no direct cost"" to the city budget. It’s true, the city would not have to pay for the library directly, but a district would mean the city has $7 million less to work with. The comment was clarified, but it still left many with the wrong impression.
 
-We find this statement False.",[<zip object at 0x00000280976A5640>],/factchecks/2012/aug/10/multnomah-county-library-foundation/would-library-taxing-district-reduce-portlands-bud/
+We find this statement False.",/factchecks/2012/aug/10/multnomah-county-library-foundation/would-library-taxing-district-reduce-portlands-bud/
 "['Candidate Biography', 'Children', 'Education', 'Taxes', 'Florida', ""Tomorrow's Vision of Florida""]","
 Group linked to Dwight Bullard says Ron Saunders “made the choice to stand with Rick Scott”
 ","
@@ -988,7 +988,7 @@ An electioneering communication organization headed by state Rep. Dwight Bullard
 
 What is most misleading about this ad is the broader message that Saunders made a choice to ""stand"" with Scott. Did Saunders vote for some bills that Scott signed into law? Yep -- but that doesn’t mean he supports Scott’s overall agenda. It’s a ridiculous idea that the Democratic minority leader is ""supporting"" Scott and ""helped"" the Republican governor in any concrete way.
 
-It is that overall message here and the images of Saunders and Scott shaking hands -- not the nitty gritty votes in small print -- that will catch voters’ eyes. For that misleading characterization, and the criticisms we noted about the bills cited, we rate this claim False.",[<zip object at 0x0000028097A2B140>],/factchecks/2012/aug/10/tomorrows-vision-florida/group-linked-state-rep-dwight-bullard-says-state-r/
+It is that overall message here and the images of Saunders and Scott shaking hands -- not the nitty gritty votes in small print -- that will catch voters’ eyes. For that misleading characterization, and the criticisms we noted about the bills cited, we rate this claim False.",/factchecks/2012/aug/10/tomorrows-vision-florida/group-linked-state-rep-dwight-bullard-says-state-r/
 "['Health Care', 'Message Machine 2012', 'Public Health', 'Wisconsin', 'Eric Hovde']","
 Senate rival Tommy Thompson backs ""Obamacare,"" says it can't be repealed, fellow GOP candidate Eric Hovde says
 ","
@@ -1050,7 +1050,7 @@ In claiming Thomson supports ""Obama’s health care mandate"" and that Thompson
 
 And Hovde falsely claims that Obama thanked Thompson for supporting ""Obamacare,"" when the president was citing Thompson’s support of reform in general.
 
-By our math, False + False + False = False.",[<zip object at 0x0000028097B08A80>],/factchecks/2012/aug/10/eric-hovde/senate-rival-tommy-thompson-backs-obamacare-says-i/
+By our math, False + False + False = False.",/factchecks/2012/aug/10/eric-hovde/senate-rival-tommy-thompson-backs-obamacare-says-i/
 "['Candidate Biography', 'Elections', 'Voting Record', 'Wisconsin', 'Tommy Thompson']","
 In GOP Wisconsin Senate primary, Tommy Thompson chastises rival Eric Hovde, claims he's voted ""every year""
 ","
@@ -1097,7 +1097,7 @@ Thompson said: ""I have voted every year in Wisconsin.""
 Records show that since fall 2002, he missed voting in elections in five different years.
 
 We rate his statement False. 
-Aug. 13, 2012 -- a footnote: Folks who heard Thompson's claim might have thought he meant he had voted in every election. The record shows he did not vote in every election. And to be clear, he missed voting entirely in 2003 and 2005 (there were two statewide elections both years).  ",[<zip object at 0x0000028097035D00>],/factchecks/2012/aug/10/tommy-thompson/gop-wisconsin-senate-primary-tommy-thompson-chasti/
+Aug. 13, 2012 -- a footnote: Folks who heard Thompson's claim might have thought he meant he had voted in every election. The record shows he did not vote in every election. And to be clear, he missed voting entirely in 2003 and 2005 (there were two statewide elections both years).  ",/factchecks/2012/aug/10/tommy-thompson/gop-wisconsin-senate-primary-tommy-thompson-chasti/
 "['Immigration', 'National', 'Message Machine 2012', 'American Principles in Action']","
 Has Barack Obama deported more people than any other president in U.S. history?
 ","A group known as American Principles in Action is running an ad targeting Hispanic voters in Nevada, trying to weaken their support for President Barack Obama.
@@ -1140,7 +1140,7 @@ Of course, Romney is widely considered to be taking a harder line on illegal imm
 
 Our ruling
 
-Technically, the ad isn’t correct to say that Barack Obama ""has deported more people than any other president in this country's history,"" since George W. Bush cumulatively deported more over his full eight-year term -- and since Bush would remain ahead of Obama if Mitt Romney wins the presidency in November. However, we -- and the experts we interviewed -- agree that the ad is right to note a significant jump in deportations under Obama. Measured by the monthly frequency of deportation, Obama’s numbers are significantly higher than Bush’s were, even as the estimated population of illegal immigrants was falling. We rate the claim Half True.  ",[<zip object at 0x0000028097035A80>],/factchecks/2012/aug/10/american-principles-action/has-barack-obama-deported-more-people-any-other-pr/
+Technically, the ad isn’t correct to say that Barack Obama ""has deported more people than any other president in this country's history,"" since George W. Bush cumulatively deported more over his full eight-year term -- and since Bush would remain ahead of Obama if Mitt Romney wins the presidency in November. However, we -- and the experts we interviewed -- agree that the ad is right to note a significant jump in deportations under Obama. Measured by the monthly frequency of deportation, Obama’s numbers are significantly higher than Bush’s were, even as the estimated population of illegal immigrants was falling. We rate the claim Half True.  ",/factchecks/2012/aug/10/american-principles-action/has-barack-obama-deported-more-people-any-other-pr/
 "['Wisconsin', 'Eric Hovde']","
 Eric Hovde says Tommy Thompson is “a big corporate lobbyist”
 ","
@@ -1232,7 +1232,7 @@ By the official definition, Hovde is off. Thompson is not a registered lobbyist 
 
 On the other hand, it’s clear that Thompson has sold his influence and connections to firms to whom it would benefit on Capitol Hill, but did so in a way -- as a consultant -- to avoid having to register.
 
-As with the Gingrich claim, we rate this one Half True.",[<zip object at 0x0000028097085080>],/factchecks/2012/aug/10/eric-hovde/eric-hovde-says-tommy-thompson-big-corporate-lobby/
+As with the Gingrich claim, we rate this one Half True.",/factchecks/2012/aug/10/eric-hovde/eric-hovde-says-tommy-thompson-big-corporate-lobby/
 "['City Government', 'Government Regulation', 'Message Machine 2012', 'Taxes', 'Wisconsin', 'Tommy Thompson']","
 GOP Senate candidate Eric Hovde didn't pay property taxes until he was sued, rival Tommy Thompson says
 ","
@@ -1282,7 +1282,7 @@ Thompson stated: ""Hovde refused to pay his property taxes until he was taken to
 
 Hovde’s firm didn’t refuse to pay property taxes, per se. But it did refuse to pay -- until losing a ruling in court -- penalties that were assessed for having the benefit of paying lower taxes without actually farming land, as required.
 
-We rate Thompson’s claim Mostly True.",[<zip object at 0x00000280979DA7C0>],/factchecks/2012/aug/10/tommy-thompson/gop-senate-candidate-eric-hovde-didnt-pay-property/
+We rate Thompson’s claim Mostly True.",/factchecks/2012/aug/10/tommy-thompson/gop-senate-candidate-eric-hovde-didnt-pay-property/
 "['Oregon', 'Social Security', 'Peter DeFazio']","
 Does Art Robinson want to end Social Security through attrition?
 ","
@@ -1318,7 +1318,7 @@ We’re not going to rule on whether ending Social Security by attrition is feas
 
 We will rule on the accuracy of DeFazio’s claim that Robinson wants to end Social Security ""by attrition."" Robinson has called for an end by attrition and continues to say we should end the current program by attrition, to be replaced by another system, whether it’s private or mixed with a public program.
 
-But we think it’s also important to point out that Robinson has consistently called upon the government to honor its obligations to Social Security recipients. We rate DeFazio’s statement Mostly True: Accurate but needs additional information.",[<zip object at 0x0000028096BE2D80>],/factchecks/2012/aug/10/peter-defazio/does-art-robinson-want-end-social-security-through/
+But we think it’s also important to point out that Robinson has consistently called upon the government to honor its obligations to Social Security recipients. We rate DeFazio’s statement Mostly True: Accurate but needs additional information.",/factchecks/2012/aug/10/peter-defazio/does-art-robinson-want-end-social-security-through/
 "['County Budget', 'Florida', 'Rob Turner']","
 Rob Turner says property appraiser's budget is $1 million less than when he took office
 ","
@@ -1362,7 +1362,7 @@ Despite the distractions, Turner is running on his record of being able to perfo
 
 The numbers show the office’s budget did increase steadily through Florida’s boom years, but only by a relatively small amount. Its annual spending plan is now smaller than when Turner took office in 1996 -- by $1,079,585.
 
-We rate this claim True.",[<zip object at 0x0000028097793980>],/factchecks/2012/aug/10/rob-turner/rob-turner-says-property-appraisers-budget-1-milli/
+We rate this claim True.",/factchecks/2012/aug/10/rob-turner/rob-turner-says-property-appraisers-budget-1-milli/
 "['Ohio', 'Crime', 'Mike DeWine']","
 Ohio Attorney General Mike DeWine says task force cracking down on human trafficking is the first of its kind in Central Ohio
 ","
@@ -1396,7 +1396,7 @@ Given that DeWine’s task force is a law enforcement investigative unit armed w
 But for some, it might be a matter of semantics — a commission versus a task force versus a law enforcement collaboration without a name. DeWine certainly isn’t the first public official to shed light on this problem and look for solutions, so his boast might be misinterpreted. Additional information is needed for clarification.
 
 
-We rate his statement Mostly True.",[<zip object at 0x00000280975B7AC0>],/factchecks/2012/aug/10/mike-dewine/ohio-attorney-general-mike-dewine-says-task-force-/
+We rate his statement Mostly True.",/factchecks/2012/aug/10/mike-dewine/ohio-attorney-general-mike-dewine-says-task-force-/
 "['Georgia', 'Human Rights', 'Trade', 'Guns', 'Paul Broun']","
 Broun: U.N. treaty likely to lead to international gun registry
 ","
@@ -1470,7 +1470,7 @@ This means that even in the unlikely event that the U.N. creates a treaty that p
 
 Broun’s statement contains the tiniest sliver of truth. The treaty would track international gun sales. But his claim makes it sound like the U.N. will keep a registry of all gun owners across the world. That’s a bizarre distortion of the facts.
 
-His claim is False.",[<zip object at 0x000002809C215840>],/factchecks/2012/aug/10/paul-broun/broun-un-treaty-likely-lead-international-gun-regi/
+His claim is False.",/factchecks/2012/aug/10/paul-broun/broun-un-treaty-likely-lead-international-gun-regi/
 "['National', 'Candidate Biography', 'Message Machine 2012', 'Taxes', 'Barack Obama']","
 Barack Obama says most Americans pay a higher tax rate than Mitt Romney
 ","
@@ -1499,7 +1499,7 @@ Once again, we can’t know exactly what percentage of Americans paid a higher e
 Even though this method validates the Obama ad, it’s worth noting that -- contrary to the ad’s invocation of Americans who ""stretch every penny"" -- it’s actually the wealthiest half of Americans, not those with low or middle incomes, whose tax rates end up exceeding Romney’s. 
 At the same time, we should also note that Romney’s 14 percent tax rate is quite a bit lower than the average tax rate for those in the top one-tenth of 1 percent of U.S. taxpayers -- those who earn roughly $2.2 million in cash income and up. Their average tax rate for income taxes alone was 23.6 percent. For income tax plus payroll tax, it was 24.7 percent. 
 Our ruling 
-There are two main ways to make this calculation, and they lead to opposite conclusions. While we believe that including payroll taxes in the calculation offers a more accurate picture of what the American public pays the IRS, it's also true that the Obama ad didn't specify which measurement it was using, and in fact used a figure for Romney -- 14 percent -- that was based on income taxes alone. On balance, then, we rate the claim Half True.",[<zip object at 0x000002809C06B040>],/factchecks/2012/aug/09/barack-obama/barack-obama-says-most-americans-pay-higher-tax-ra/
+There are two main ways to make this calculation, and they lead to opposite conclusions. While we believe that including payroll taxes in the calculation offers a more accurate picture of what the American public pays the IRS, it's also true that the Obama ad didn't specify which measurement it was using, and in fact used a figure for Romney -- 14 percent -- that was based on income taxes alone. On balance, then, we rate the claim Half True.",/factchecks/2012/aug/09/barack-obama/barack-obama-says-most-americans-pay-higher-tax-ra/
 "['Immigration', 'Florida', 'Floridians for Ethics and Truth in Politics']","
 Pro-Mike Weinstein group says Aaron Bean voted to give tuition breaks to illegal immigrants
 ","
@@ -1559,4 +1559,4 @@ But only some undocumented students would have received the in-state tuition rat
 
 Whether Bean meant to vote for the bill is a different story. Sometimes legislators sneak provisions into bills at the last minute that go unnoticed. We don't see any evidence that happened here. Bean is responsible for knowing what is inside the bills that earn his votes, even if they are long.
 
-This claim is accurate but needs a little clarification. We rate it Mostly True.",[<zip object at 0x00000280973E1CC0>],/factchecks/2012/aug/09/floridians-ethics-and-truth-politics/pro-weinstein-group-says-aaron-bean-voted-give-tui/
+This claim is accurate but needs a little clarification. We rate it Mostly True.",/factchecks/2012/aug/09/floridians-ethics-and-truth-politics/pro-weinstein-group-says-aaron-bean-voted-give-tui/

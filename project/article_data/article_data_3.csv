@@ -1,4 +1,4 @@
-tags,sub_header,text_body,sources,quote_href
+tags,sub_header,text_body,quote_href
 "['National', 'Candidate Biography', 'Chain email']","
 She failed, then followed Bill
 ","In an article for a conservative Internet journal that has been widely distributed via chain e-mail, former Clinton adviser-turned-foe Dick Morris points out a little-known embarrassment about Sen. Hillary Clinton, who was a star law student at Yale.
@@ -25,7 +25,7 @@ Wrote Bernstein: ""There can only be conjecture about what turn her life — and
  
 But she did, and this statement is True.
  
-",[<zip object at 0x0000028097A76E80>],/factchecks/2008/feb/15/chain-email/she-failed-then-followed-bill/
+",/factchecks/2008/feb/15/chain-email/she-failed-then-followed-bill/
 "['National', 'Elections', 'James Dobson']","
 McCain knew it would get him in trouble
 ","James Dobson, an evangelical leader who founded the conservative Christian group Focus on the Family, says he cannot support Sen. John McCain. He has gone so far as to say he will not vote for the first time in his life this November if McCain is the Republican nominee.
@@ -64,7 +64,7 @@ McCain: ""Thanks for doing that to us. Thanks for doing that to us, Tim.""
  
 No spin in that exchange. We judge Dobson's statement to be True.
  
-",[<zip object at 0x0000028097202640>],/factchecks/2008/feb/14/james-dobson/mccain-knew-it-would-get-him-in-trouble/
+",/factchecks/2008/feb/14/james-dobson/mccain-knew-it-would-get-him-in-trouble/
 "['National', 'Taxes', 'Republican National Committee']","
 Hunk of burning love
 ","Its presidential nominee all but announced, the Republican National Committee is ready for the next challenge: love note writing.
@@ -105,7 +105,7 @@ Maybe the RNC should stick to the biting sarcasm of such sentiments as ""On this
  
 Or consider adding fact sheets with footnotes to its Valentines. For this day, it's Pants on Fire wrong.
  
-",[<zip object at 0x0000028097D70800>],/factchecks/2008/feb/14/republican-national-committee-republican/hunk-of-burning-love/
+",/factchecks/2008/feb/14/republican-national-committee-republican/hunk-of-burning-love/
 "['National', 'Candidate Biography', 'Hillary Clinton']","
 Yes, but it's complicated.
 ","Trying to depict her chief rival as calculating and wishy-washy, Sen. Hillary Clinton says Sen. Barack Obama ducked tough votes over eight years as an Illinois state senator by voting ""present"" instead of ""yea"" or ""nay"" 129 times on bills dealing with issues including abortion rights, gun control and the privacy of sex-abuse victims.
@@ -132,7 +132,7 @@ The record is clear that Obama did vote ""present"" more than 100 times (we coul
  
 But there are several other instances in which he is one of only a few senators to vote ""present,"" and at least eight where he was the only senator to vote ""present."" In those cases, it's hard to see the party's fingerprints on his position, and it's easier to see political expedience. Ultimately, the record is mixed, leaving us little room for more than Half True.
  
-",[<zip object at 0x0000028096ED84C0>],/factchecks/2008/feb/13/hillary-clinton/yes-but-its-complicated/
+",/factchecks/2008/feb/13/hillary-clinton/yes-but-its-complicated/
 "['National', 'Health Care', 'Hillary Clinton']","
 Clinton stands alone on health care mandate
 ","As the primary race enters its final stretch, the sparring is getting more intense. Sen. Hillary Clinton unveiled an attack ad for the Wisconsin primary in which a narrator chides Sen. Barack Obama for ducking debates.
@@ -155,7 +155,7 @@ here
  
 Because Clinton does include a mandate in her plan, she is correct in saying that she is the only candidate for president with a plan that mandates health care for all Americans. We find her statement True.
  
-",[<zip object at 0x00000280979EB0C0>],/factchecks/2008/feb/13/hillary-clinton/clinton-stands-alone-on-health-care-mandate/
+",/factchecks/2008/feb/13/hillary-clinton/clinton-stands-alone-on-health-care-mandate/
 "['National', 'Elections', 'Hillary Clinton']","
 Both caucus losers, but she's more thorough
 ","Trying to brush off some of her recent defeats, Sen. Hillary Clinton compared her battle with Sen. Barack Obama to Bill Clinton's presidential travails, noting that he, too, had a tendency to perform lousy in caucuses.
@@ -176,7 +176,7 @@ It's hard to read too much into comparisons like the one Hillary Clinton cites b
 UPDATE:
 
 We have updated this item to show that Nevada held a caucus this year, not a primary.
-",[<zip object at 0x0000028096E20900>],/factchecks/2008/feb/13/hillary-clinton/both-caucus-losers-but-shes-more-thorough/
+",/factchecks/2008/feb/13/hillary-clinton/both-caucus-losers-but-shes-more-thorough/
 "['National', 'Elections', 'Hillary Clinton']","
 Obama's real competition has been Democrats
 ","Trying to cast Sen. Barack Obama as untested in general elections, Sen. Hillary Clinton pollster Mark Penn asserted during a Feb. 11 conference call with reporters that the first-term Illinois senator has ""never had a serious Republican challenger.""
@@ -193,7 +193,7 @@ Obama wound up capturing 70 percent of the vote, buoyed by the national exposure
  
 Because Obama has faced only token Republican opposition, when he's faced any at all, we deem this claim to be True.
  
-",[<zip object at 0x0000028097AC1E40>],/factchecks/2008/feb/12/hillary-clinton/obamas-real-competition-has-been-democrats/
+",/factchecks/2008/feb/12/hillary-clinton/obamas-real-competition-has-been-democrats/
 "['National', 'Elections', 'Bill Clinton']","
 Clinton distorted Obama's position
 ","While campaigning for his wife in Maine, a reporter asked former President Bill Clinton about some of the criticism he has received on the trail.
@@ -231,7 +231,7 @@ for the same statements we looked at about Obama.
  
 So we find Clinton's superlative — ""everything I have said has been factually accurate"" — to be False.
  
-",[<zip object at 0x0000028097AE0D00>],/factchecks/2008/feb/12/bill-clinton/clinton-distorted-obamas-position/
+",/factchecks/2008/feb/12/bill-clinton/clinton-distorted-obamas-position/
 "['National', 'Foreign Policy', 'George W. Bush']","
  Bush gets Obama wrong on foreign policy
 ","In an interview with Chris Wallace on
@@ -279,7 +279,7 @@ George W. Bush may be president, but he's not a stranger to the bare-knuckled wo
  
 Taken individually, Bush's characterization of Obama's remark on Pakistan and his remark on Iran are each inaccurate. Taken together, Bush's statements summarize Obama's foreign policy position — that he would attack an important ally and ""embrace"" an enemy — in a way that just isn't accurate. We rate Bush's statement False.
  
-",[<zip object at 0x000002809679D9C0>],/factchecks/2008/feb/12/george-w-bush/bush-gets-obama-wrong-on-foreign-policy/
+",/factchecks/2008/feb/12/george-w-bush/bush-gets-obama-wrong-on-foreign-policy/
 "['National', 'Elections', 'Barack Obama']","
 Cumulatively, major losses
 ","Raising the prospect that a Hillary Clinton presidency will weaken the Democratic party nationally, a mailer sent on behalf of Barack Obama in the days before Super Tuesday spells out how many governorships and congressional seats the party lost during the eight years of Bill Clinton's presidency.
@@ -294,7 +294,7 @@ But the GOP began to lose congressional seats in the 1996 and 1998 elections, wh
  
 While it's true that Democrats suffered major losses in 1994, they recouped some of those seats before Clinton left office. We find the claim to be Mostly True.
  
-",[<zip object at 0x0000028096BF3880>],/factchecks/2008/feb/11/barack-obama/cumulatively-major-losses/
+",/factchecks/2008/feb/11/barack-obama/cumulatively-major-losses/
 "['National', 'Elections', 'Barack Obama']","
 Clinton's negatives are higher than Obama's
 ","Sen. Barack Obama often speaks about how he believes he will be a stronger general election candidate than his primary opponent, Sen. Hillary Clinton.
@@ -325,7 +325,7 @@ USA Today
 
 /Gallup Poll has polled often on Clinton's unfavorables, and the average of 21 polls puts her negatives at 47 percent. We find that to be about as solid a poll figure as you can have, so we find Obama's statement True.
  
-",[<zip object at 0x000002809679D200>],/factchecks/2008/feb/11/barack-obama/clintons-negatives-are-higher-than-obamas-/
+",/factchecks/2008/feb/11/barack-obama/clintons-negatives-are-higher-than-obamas-/
 "['National', 'Bankruptcy', 'Barack Obama']","
 That's not the actual quote
 ","Sen. Barack Obama took several swipes at Sen. Hillary Clinton, his rival in the race for the Democratic nomination, at a Feb. 10, 2008, campaign rally in Alexandria, Va.
@@ -350,7 +350,7 @@ We need to be clear on this point, given that Obama sets up his charge against C
  
 Absolutely, Clinton said she regretted her vote. And, had Obama phrased his charge differently, he would have a case here. But because he portrays her wording as a precise quote, and is so incorrect about it, we give him a False.
  
-",[<zip object at 0x000002809735CBC0>],/factchecks/2008/feb/11/barack-obama/thats-not-the-actual-quote/
+",/factchecks/2008/feb/11/barack-obama/thats-not-the-actual-quote/
 "['National', 'Energy', 'Barack Obama']","
 He needs a fill-up on statistics
 ","At a campaign rally at T.C. Williams High School in Alexandria, Va., on Feb. 10, 2008, Barack Obama opened his speech by talking about how Americans are feeling squeezed by the price of college, health care and gasoline.
@@ -372,7 +372,7 @@ In fact, while the senator was in Alexandria, his motorcade drivers could have f
 We might have been inclined to cut Obama some slack for speaking in general terms about the price of gas, but he is still wrong when you look at historical levels. If you adjust for inflation, the current national price is still 41 cents below the peak of $3.39 per gallon, set in March 1981.
  
 And so, we find his statement False.
-",[<zip object at 0x000002809A48E240>],/factchecks/2008/feb/11/barack-obama/he-needs-a-fill-up-on-statistics/
+",/factchecks/2008/feb/11/barack-obama/he-needs-a-fill-up-on-statistics/
 "['National', 'Elections', 'Barack Obama']","
 Polls show Obama beating McCain
 ","Sen. Barack Obama regularly makes the argument that he will be a stronger general election candidate than his primary opponent, Sen. Hillary Clinton.
@@ -401,7 +401,7 @@ It's possible that Obama has access to private polls we haven't seen. We asked t
  
 So we will deduct a small amount on the Truth-O-Meter for his citing of ""the last six polls,"" but Obama's larger point is correct. Polls show he is winning against McCain, while Clinton either loses to McCain or beats him by a smaller margin. So we award this statement a Mostly True.
  
-",[<zip object at 0x00000280974BDD80>],/factchecks/2008/feb/11/barack-obama/polls-show-obama-beating-mccain/
+",/factchecks/2008/feb/11/barack-obama/polls-show-obama-beating-mccain/
 "['National', 'Patriotism', 'Chain email']","
 A new twist on an old distortion
 ","A new chain e-mail against Barack Obama recycles some false charges and adds some false twists.
@@ -470,7 +470,7 @@ this video from the Senate.
  
 So once again, we find a chain e-mail is incorrect about Obama. We find the statement False.
  
-",[<zip object at 0x000002809C1A2840>],/factchecks/2008/feb/08/chain-email/a-new-twist-on-an-old-distortion/
+",/factchecks/2008/feb/08/chain-email/a-new-twist-on-an-old-distortion/
 "['National', 'Elections', 'Mike Huckabee']","
 Unions gave Huck their GOP nod
 ","It's not often that we hear a Republican presidential candidate crowing about support from unions.
@@ -503,7 +503,7 @@ We searched for major union endorsements of any other Republican candidates and 
  
 There are a lot of unusual things about Huckabee, a bass guitar-playing, Chuck Norris-approved preacher. Add Republican and union-endorsed to that list. We find his statement True.
  
-",[<zip object at 0x0000028097494140>],/factchecks/2008/feb/08/mike-huckabee/unions-gave-huck-their-gop-nod/
+",/factchecks/2008/feb/08/mike-huckabee/unions-gave-huck-their-gop-nod/
 "['National', 'Candidate Biography', 'Mike Huckabee']","
 It tasted like chicken
 ","
@@ -566,7 +566,7 @@ squirrels in cream sauce.
 
  
 Yum!
-",[<zip object at 0x0000028096F73940>],/factchecks/2008/feb/07/mike-huckabee/it-tasted-like-chicken/
+",/factchecks/2008/feb/07/mike-huckabee/it-tasted-like-chicken/
 "['National', 'Iraq', 'John McCain']","
 One man found his winning message
 ","In advance of the Potomac Primary on Feb. 12, 2008, Republican front-runner John McCain released a TV ad in Virginia, the District of Columbia and Maryland that has played to other markets in this primary process.
@@ -621,7 +621,7 @@ This is a reference to McCain's strong opposition to what he calls wasteful pork
  
 Overall, it's an effective TV ad with accurate claims. We give it a True.
  
-",[<zip object at 0x0000028097A690C0>],/factchecks/2008/feb/07/john-mccain/one-man-found-his-winning-message/
+",/factchecks/2008/feb/07/john-mccain/one-man-found-his-winning-message/
 "['Abortion', 'National', 'Barack Obama']","
 Obama voted consistently for abortion rights
 ","The Clinton campaign has raised doubts about Sen. Barack Obama's record on abortion rights because he voted ""present"" rather than ""no"" on seven antiabortion bills when he was in the Illinois state Senate.
@@ -648,7 +648,7 @@ He also earned 100 percent records for his votes in eight years as a state senat
  
 So we find DeLauro's statement to be True.
  
-",[<zip object at 0x000002809C156940>],/factchecks/2008/feb/06/barack-obama/obama-voted-consistently-for-abortion-rights/
+",/factchecks/2008/feb/06/barack-obama/obama-voted-consistently-for-abortion-rights/
 "['Abortion', 'National', 'Hillary Clinton']","
 He voted ""present,"" which is similar to ""no""
 ","
@@ -697,7 +697,7 @@ Two other large groups, NARAL Prochoice America and Planned Parenthood, are not 
 We stipulate that there are clearly different interpretations of the significance of Obama's ""present"" votes. But there's no doubt he made them. So we find Clinton's statement to be True.
  
  
-",[<zip object at 0x0000028097A7DD40>],/factchecks/2008/feb/06/hillary-clinton/he-voted-present-which-is-similar-to-no/
+",/factchecks/2008/feb/06/hillary-clinton/he-voted-present-which-is-similar-to-no/
 "['National', 'Elections', 'John McCain']","
 Actually, not so very large
 ","In a
@@ -728,7 +728,7 @@ Now, at the end of the day, Rothenberg said, if McCain is running against Sen. H
  
 But as for McCain's characterization that conservative support in Florida was ""very large,"" it's too relative a concept to call it False. But when it's less than half, less than your opponent and when it hasn't even gone up, we can say it's Barely True.
  
-",[<zip object at 0x0000028096F6B600>],/factchecks/2008/feb/05/john-mccain/actually-not-so-very-large/
+",/factchecks/2008/feb/05/john-mccain/actually-not-so-very-large/
 "['National', 'Iraq', 'Hillary Clinton']","
 50,000 started war without body armor
 
@@ -765,7 +765,7 @@ Nevertheless, with emerging technology and debate over the best type of body arm
  
 Clinton's comment about troops heading into war without body armor, while it wasn't true for all, was true for some soldiers at the beginning of the war. So we rate Clinton's comment Mostly True.
  
-",[<zip object at 0x00000280971BBAC0>],/factchecks/2008/feb/04/hillary-clinton/50000-started-war-without-body-armor/
+",/factchecks/2008/feb/04/hillary-clinton/50000-started-war-without-body-armor/
 "['National', 'Taxes', 'Citizens United Political Victory Fund']","
 McCain voted against cuts, now supports them
 ","The advocacy group Citizens United Political Victory Fund launched an ad that at first appears to be an attack on Sen. Hillary Clinton, making several charges about votes and political positions.
@@ -782,7 +782,7 @@ The ad gets it right that McCain voted against the tax cuts in 2001 and 2003. Bu
  
 We have to deduct a little bit for leaving the impression that there were only two votes on the tax cuts, but the ad is correct that McCain voted against the measures. So we find the statement that McCain voted against the Bush tax cuts ""both times"" to be Mostly True.
  
-",[<zip object at 0x000002809713A980>],/factchecks/2008/feb/04/citizens-united-political-victory-fund/mccain-voted-against-cuts-now-supports-them/
+",/factchecks/2008/feb/04/citizens-united-political-victory-fund/mccain-voted-against-cuts-now-supports-them/
 "['National', 'Federal Budget', 'John McCain']","
 Clinton brought home even more bacon
 ","With polls showing he has a solid lead in most Super Tuesday states, Sen. John McCain took aim at Sen. Hillary Clinton while campaigning in Fairfield, Conn., on Feb. 3, 2008.
@@ -819,7 +819,7 @@ So McCain is right that Clinton has brought truckloads of bacon to her New York 
  
 For our ruling, we find that while McCain's numbers are low, he's actually more correct than he realizes because she's brought so much pork to New York. We rate his attack Mostly True.
  
-",[<zip object at 0x00000280979C4DC0>],/factchecks/2008/feb/04/john-mccain/clinton-brought-home-even-more-bacon-/
+",/factchecks/2008/feb/04/john-mccain/clinton-brought-home-even-more-bacon-/
 "['National', 'Economy', 'Mitt Romney']","
 McCain said it
 ","Mitt Romney touts his business and executive experience as evidence he would deftly steer the economy as president. At the same time, he blasts rival John McCain as lacking when it comes to the economy.
@@ -852,7 +852,7 @@ McCain: ""Okay. Let me tell you what I was trying to say and what I meant in tha
  
 McCain's explanation doesn't change the fact that he did say that economics was not his strong suit. In this instance, Romney is accurately quoting McCain's past remarks, so we find Romney's statement True.
  
-",[<zip object at 0x0000028096E21300>],/factchecks/2008/feb/04/mitt-romney/mccain-said-it/
+",/factchecks/2008/feb/04/mitt-romney/mccain-said-it/
 "['National', 'Elections', 'Citizens United Political Victory Fund']","
 That's the ticket
 ","Republicans have often questioned Sen. John McCain's conservative stripes, and the idea that he was a potential running mate for Democrat John Kerry in 2004 stokes their suspicions even more.
@@ -894,7 +894,7 @@ magazine titled ""Prisoner of Conscience"" says: ""Kerry felt close enough to Mc
  
 We're not saying McCain gave the idea much thought or even that he was offered the job, but it's clear he ""was mentioned as a running mate with John Kerry."" We rule this statement True.
  
-",[<zip object at 0x00000280979F2100>],/factchecks/2008/feb/04/citizens-united-political-victory-fund/thats-the-ticket/
+",/factchecks/2008/feb/04/citizens-united-political-victory-fund/thats-the-ticket/
 "['National', 'Foreign Policy', 'Barack Obama']","
 Clinton endorses diplomacy
 ","Barack Obama made his most direct case for the Democratic nomination at a speech on Jan. 30, 2008, in Denver. He criticized fellow Democrat Hillary Clinton, arguing that he represents a more dramatic distinction with John McCain, the apparent Republican front-runner after winning Florida's primary.
@@ -917,7 +917,7 @@ John McCain's public comments seem to reflect an openness to diplomacy while als
  
 It's not unreasonable to say that Clinton and McCain share a skepticism about having the president conduct face-to-face diplomatic meetings directly. But Obama strays badly in taking that shared view and equating it with what he calls ""the Bush-Cheney policy of not talking to leaders we don't like."" Clinton, who was asked about it directly, clearly says she would approach diplomacy differently than the Bush administration has. We find Obama's claim Barely True.
  
-",[<zip object at 0x000002809672D9C0>],/factchecks/2008/feb/01/barack-obama/clinton-endorses-diplomacy/
+",/factchecks/2008/feb/01/barack-obama/clinton-endorses-diplomacy/
 "['National', 'Terrorism', 'Barack Obama']","
 Clinton changed on torture
 ","Barack Obama made his most direct case for the Democratic nomination at a speech on Jan. 30, 2008, in Denver. He criticized fellow Democratic candidate Hillary Clinton's candidacy, arguing that he represents a more dramatic distinction with John McCain, the apparent Republican frontrunner after winning Florida's primary.
@@ -947,7 +947,7 @@ reports.
  
 Did Clinton change position because of her talks with the generals or because of the ""politics of the moment""? We can't see inside Clinton's head, so our ruling doesn't reflect on that part of the statement. But it is clear she changed her mind about the ""ticking bomb"" scenario. So we rate Obama's claim True.
  
-",[<zip object at 0x0000028096B3AD40>],/factchecks/2008/feb/01/barack-obama/clinton-changed-on-torture/
+",/factchecks/2008/feb/01/barack-obama/clinton-changed-on-torture/
 "['National', 'Iraq', 'Barack Obama']","
 Clinton and McCain had same vote on Iraq war
 ","Barack Obama made his most direct case for the Democratic nomination at a speech on Jan. 30, 2008, in Denver. He criticized fellow Democrat Hillary Clinton's candidacy, arguing that he represents a more dramatic contrast to John McCain, the apparent Republican front-runner.
@@ -960,7 +960,7 @@ Obama is referring to the 2002 vote authorizing the use of force in Iraq, widely
  
 Obama is right: Clinton and McCain were on the same side in voting for the use of force in Iraq. We find this claim to be True.
  
-",[<zip object at 0x00000280979F2300>],/factchecks/2008/feb/01/barack-obama/clinton-and-mccain-had-same-vote-on-iraq-war/
+",/factchecks/2008/feb/01/barack-obama/clinton-and-mccain-had-same-vote-on-iraq-war/
 "['National', 'Taxes', 'John McCain']","
 One man's fees are another's taxes
 ","Not willing to concede the True Tax Conservative mantle to Mitt Romney, John McCain reiterated in a Jan. 30, 2008, debate a claim he has made frequently about Romney's tax record as governor of Massachusetts.
@@ -1009,4 +1009,4 @@ Here's the math: You take $377-million from closing the so-called corporate tax 
  
 The elimination of corporate tax ""loopholes"" clearly resulted in some businesses paying more taxes and to those businesses, fair or not, it sure must have felt like a tax increase. As for fees, it's nearly impossible to measure with precision how much of the increases were appropriate or simply a revenue-generating measure. We rate the claim Half True.
  
-",[<zip object at 0x0000028097CFC780>],/factchecks/2008/feb/01/john-mccain/one-mans-fees-are-anothers-taxes/
+",/factchecks/2008/feb/01/john-mccain/one-mans-fees-are-anothers-taxes/

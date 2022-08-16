@@ -1,4 +1,4 @@
-tags,sub_header,text_body,sources,quote_href
+tags,sub_header,text_body,quote_href
 "['National', 'Health Care', 'Barack Obama']","
 No mandate makes universal claim tough
 ","Barack Obama responded to an attack on his health care plan from Hillary Clinton by saying, ""I do provide universal health care. The only difference between Senator Clinton's health care plan and mine is that she thinks the problem for people without health care is that nobody has mandated -- forced -- them to get health care.""
@@ -13,7 +13,7 @@ But universal? Obama's plan ""would get close to universal coverage,"" said Sara
  
 We think Obama is pushing the envelope calling a plan without a mandate ""universal."" For that reason, we rate his claim Barely True.
  
-",[<zip object at 0x000002809A3F1240>],/factchecks/2007/nov/26/barack-obama/no-mandate-makes-universal-claim-tough/
+",/factchecks/2007/nov/26/barack-obama/no-mandate-makes-universal-claim-tough/
 "['National', 'Crime', 'Rudy Giuliani']","
 Murders went up, but all violence declined
 ","We evaluated Rudy Giuliani's attack on Mitt Romney by looking at the FBI's uniform crime statistics.
@@ -31,7 +31,7 @@ So what made the violent crime rate go down if murders and robberies went up? Th
  
 Given these numbers, Giuliani is right when he says murders and robberies went up, but wrong when he says violent crime went up. We rate his claim Half True.
  
-",[<zip object at 0x000002809C0E3C80>],/factchecks/2007/nov/26/rudy-giuliani/murders-went-up-but-all-violence-declined/
+",/factchecks/2007/nov/26/rudy-giuliani/murders-went-up-but-all-violence-declined/
 "['National', 'Federal Budget', 'Rudy Giuliani']","
 Not if you count all the years
 ","Rudy Giuliani often boasts of turning a ""$2.3-billion budget deficit into [a] $2.9-billion surplus by FY 2001"" while he was mayor of New York City. He sometimes refers to the surplus as a ""multibillion-dollar"" one.
@@ -53,7 +53,7 @@ It is probably worth noting that both out-year ""deficit"" figures – the one G
  
 Add it all up and we only get halfway to true.
  
-",[<zip object at 0x00000280979D9240>],/factchecks/2007/nov/21/rudy-giuliani/not-if-you-count-all-the-years-/
+",/factchecks/2007/nov/21/rudy-giuliani/not-if-you-count-all-the-years-/
 "['National', 'Rudy Giuliani']","
 The frown was already turning upside down
 ","New Yorkers weren't happy just before Rudy Giuliani took office, but it wasn't as dire as he says. That 60 or 70 percent figure he mentions was two-year-old news by the time he took office.
@@ -98,7 +98,7 @@ So the ""city that I was handed"" at the end of 1993 did not have 60 or 70 perce
  
 There's no disagreement among sources here. Giuliani just misquotes the numbers, and does so in a way that reflects better on him. We find his statement to be Barely True.
  
-",[<zip object at 0x000002809676A400>],/factchecks/2007/nov/21/rudy-giuliani/the-frown-was-already-turning-upside-down/
+",/factchecks/2007/nov/21/rudy-giuliani/the-frown-was-already-turning-upside-down/
 "['National', 'Taxes', 'Rudy Giuliani']","
 Update: Giuliani pushed city income tax cut
 ","
@@ -127,7 +127,7 @@ So let's just pause on supply-side economics, the popular version of which is th
 We have changed our ruling since this item first published in November 2007. We understated Giuliani's role in the city income tax cut, and we simply misstated the origin of the tax that was in question. Upon further review, in light of clarifying information provided by the Giuliani campaign, we are giving Giuliani a Mostly True ruling.
  
  
-",[<zip object at 0x00000280966D5640>],/factchecks/2007/nov/21/rudy-giuliani/update-giuliani-pushed-city-income-tax-cut/
+",/factchecks/2007/nov/21/rudy-giuliani/update-giuliani-pushed-city-income-tax-cut/
 "['National', 'Education', 'Bill Richardson']","
 Citizenship 110, Financial aid 102
 ","As part of his education platform speech, New Mexico Gov. Bill Richardson lays into how tough it can be to get financial aid for college.
@@ -156,7 +156,7 @@ By our count, Form N-400 from the Department of Homeland Security has 110 questi
  
 At a score of 110-102, we rule Richardson's statement False.
  
-",[<zip object at 0x00000280971AD840>],/factchecks/2007/nov/20/bill-richardson/citizenship-110-financial-aid-102-/
+",/factchecks/2007/nov/20/bill-richardson/citizenship-110-financial-aid-102-/
 "['National', 'Education', 'Hillary Clinton']","
 A lot of time, but the math is off
 ","While discussing college costs, Sen. Hillary Clinton joined a growing chorus of political leaders calling for reform of the financial aid application process.
@@ -193,7 +193,7 @@ No research has been done on the topic, said Meihua Zhai, director of research a
  
 Given the disputed number and the lack of research, we find Clinton's statement to be Half True.
  
-",[<zip object at 0x0000028097BD9E80>],/factchecks/2007/nov/20/hillary-clinton/a-lot-of-time-but-the-math-is-off/
+",/factchecks/2007/nov/20/hillary-clinton/a-lot-of-time-but-the-math-is-off/
 "['National', 'Barack Obama']","
 Edwards tagged 'populist' early on
 ","After John Edwards charged that Barack Obama would be too willing to compromise with special interests, Obama jabbed back during an interview with the
@@ -221,7 +221,7 @@ Guillory said Edwards has struck populist themes his entire political life, but 
  
 We give Obama a False ruling on his remark that Edwards came to populism recently. His Senate record may not be the most substantial, but Edwards has consistently raised issues of economic inequality his entire political career.
  
-",[<zip object at 0x0000028096FA3480>],/factchecks/2007/nov/19/barack-obama/edwards-tagged-populist-early-on/
+",/factchecks/2007/nov/19/barack-obama/edwards-tagged-populist-early-on/
 "['National', 'Terrorism', 'Rudy Giuliani']","
 He's on point, but still off base
 ","Rudy Giuliani is basing his presidential campaign on the argument that, as the mayor who guided New York City through the Sept. 11 attacks, he's best suited to keep the country safe from terrorism. He has said repeatedly that he would continue President Bush's policy of attacking terrorists aggressively overseas, and has criticized the Clinton administration for failing to foresee the 9/11 attacks.
@@ -260,7 +260,7 @@ But it's impossible to be sure when the first budget increases came. Courts refu
  
 So, we conclude that Giuliani's statement is Half True. Clinton did reduce the intelligence budget early in his tenure. But Tenet never placed the blame squarely on Clinton's shoulders, as Giuliani said he did. And while Tenet said budget cuts had made it difficult for the CIA to pursue its mission by 1997, the cuts came during both the Bush and Clinton presidencies.
  
-",[<zip object at 0x0000028097B2DE00>],/factchecks/2007/nov/19/rudy-giuliani/hes-on-point-but-still-off-base/
+",/factchecks/2007/nov/19/rudy-giuliani/hes-on-point-but-still-off-base/
 "['Immigration', 'National', 'Barack Obama']","
 Lightning strikes, but not like the feds
 ","Sen. Barack Obama of Illinois tried to make the point that enforcement against people who hire undocumented workers has to improve.
@@ -299,7 +299,7 @@ It should be noted that the number of employers is tough to determine; officials
  
 Given these findings, we rule Obama's statement False.
  
-",[<zip object at 0x0000028097C17A00>],/factchecks/2007/nov/16/barack-obama/lightning-strikes-but-not-like-the-feds/
+",/factchecks/2007/nov/16/barack-obama/lightning-strikes-but-not-like-the-feds/
 "['National', 'Bill Richardson']","
 Congress and Cheney beat HMOs
 ","Gov. Bill Richardson took a humorous jab at his fellow candidates who serve in Congress during the Democratic debate in Las Vegas on Nov. 15, 2007, saying their approval ratings are lower than Dick Cheney's and HMOs'.
@@ -314,7 +314,7 @@ In fact, in that poll, both senators and congressman rated higher than HMO manag
  
 So Richardson is wrong on all counts. Congress and Cheney are arguably neck-and-neck for approval ratings, while HMO managers lag behind. We rate his claim False.
  
-",[<zip object at 0x0000028097C17880>],/factchecks/2007/nov/15/bill-richardson/congress-and-cheney-beat-hmos/
+",/factchecks/2007/nov/15/bill-richardson/congress-and-cheney-beat-hmos/
 "['National', 'Health Care', 'Hillary Clinton']","
 Edwards was worried about cost
 
@@ -331,7 +331,7 @@ tell you ... anybody who knows me knows I will never give up.""
  
 Edwards did release his plan before Barack Obama and Hillary Clinton, but Dennis Kucinich released a proposal for universal health care before Edwards.
  
-",[<zip object at 0x000002809A433100>],/factchecks/2007/nov/15/hillary-clinton/edwards-was-worried-about-cost/
+",/factchecks/2007/nov/15/hillary-clinton/edwards-was-worried-about-cost/
 "['National', 'Iraq', 'Bill Richardson']","
 Yep, 3 out of 18
 ","Richardson accurately quoted the September Government Accountability Office report that concluded the Iraqi government had met only three of 18 goals set by Congress to assess President Bush's war strategy.
@@ -342,7 +342,7 @@ The GAO, the investigative arm of Congress, determined three targets had been me
  
 We'll skip the debate over how much progress has been made in Iraq. Richardson cites his source and gets it right; the GAO says three of 18 benchmarks have been met.
  
-",[<zip object at 0x000002809C2E4B00>],/factchecks/2007/nov/15/bill-richardson/yep-3-out-of-18/
+",/factchecks/2007/nov/15/bill-richardson/yep-3-out-of-18/
 "['Congress', 'Oil Spill', 'Florida', 'Bill Nelson']","
 Bill Nelson: Connie Mack is 'protecting' Chevron from big oil pollution lawsuit
 ","
@@ -442,7 +442,7 @@ The Chevron case is also particularly complicated. Chevron says it did not get a
 
 Still, the resolution seems designed to exert political pressure on the country in Chevron’s favor.
 
-We rate Nelson’s claim Half True.",[<zip object at 0x000002809A46F180>],/factchecks/2012/oct/18/bill-nelson/nelson-connie-mack-protecting-chevron-big-ecuador-/
+We rate Nelson’s claim Half True.",/factchecks/2012/oct/18/bill-nelson/nelson-connie-mack-protecting-chevron-big-ecuador-/
 "['National', 'Corrections and Updates', 'Regulation', 'Mitt Romney']","
 Romney says federal regulations quadrupled under Obama
 ","
@@ -499,7 +499,7 @@ And more importantly, the actual data on regulations show Obama's rate of regula
 
 This is a broad claim describing its own evidence inaccurately. False.
 
-UPDATE: We've updated this item with a fuller description of OMB Watch.",[<zip object at 0x00000280970965C0>],/factchecks/2012/oct/18/mitt-romney/federal-regulations-quadrupled-under-obama/
+UPDATE: We've updated this item with a fuller description of OMB Watch.",/factchecks/2012/oct/18/mitt-romney/federal-regulations-quadrupled-under-obama/
 "['New Hampshire', 'Taxes', 'Democratic Congressional Campaign Committee']","
 Democrats point to votes om Ryan budget as evidence Rep. Frank Guinta wants to tax middle class
 ","
@@ -547,7 +547,7 @@ The study by the Congressional Joint Economic Committee, which is chaired by a D
 
 Had it passed, the House budget may have increased middle class taxes as the ad suggests. But, given the lack of specifics, there isn’t enough evidence to know for sure, as the DCCC claims to do.
 
-We rate the claim Mostly False.",[<zip object at 0x0000028097241180>],/factchecks/2012/oct/18/democratic-congressional-campaign-committee/democrats-point-votes-om-ryan-budget-evidence-rep-/
+We rate the claim Mostly False.",/factchecks/2012/oct/18/democratic-congressional-campaign-committee/democrats-point-votes-om-ryan-budget-evidence-rep-/
 "['Abortion', 'New Jersey', 'Crime', 'Voting Record', 'Women', 'Shelley Adler']","
 Shelley Adler claims Jon Runyan voted to redefine rape
 ","
@@ -603,7 +603,7 @@ Runyan never signed on as a co-sponsor of that legislation. Further, when the bi
 
 We rate Adler’s claim False.
 
-To comment on this ruling, go to NJ.com.",[<zip object at 0x000002809695DCC0>],/factchecks/2012/oct/18/shelley-adler/shelley-adler-claims-jon-runyan-voted-redefine-rap/
+To comment on this ruling, go to NJ.com.",/factchecks/2012/oct/18/shelley-adler/shelley-adler-claims-jon-runyan-voted-redefine-rap/
 "['Ohio', 'Economy', 'Jobs', 'Message Machine 2012', 'Taxes', 'Crossroads GPS']","
 Crossroads GPS says that Sherrod Brown backed ""Obama's $453 billion tax increase""
 ","
@@ -640,7 +640,7 @@ Brown's ""yes"" vote came on a procedural measure to open Senate debate, which d
 The claim from Crossroads GPS has an element of truth in its statement. The American Jobs Act of 2011, which Brown did indicate support for, did include a surtax that was expected to yield $453 billion over 10 years.
 
 But the claim in the ad leaves out critical facts that would give a different impression. 
-On the Truth-O-Meter, the claim rates Mostly False.",[<zip object at 0x00000280978310C0>],/factchecks/2012/oct/18/crossroads-gps/crossroads-gps-says-sherrod-brown-backed-obamas-45/
+On the Truth-O-Meter, the claim rates Mostly False.",/factchecks/2012/oct/18/crossroads-gps/crossroads-gps-says-sherrod-brown-backed-obamas-45/
 "['Rhode Island', 'Bipartisanship', 'Congress', 'Voting Record', 'Brendan Doherty']","
 Rhode Island Republican Brendan Doherty says he can be bipartisan in Congress, citing GOP Sen. Scott Brown’s bipartisan votes
 ","
@@ -674,7 +674,7 @@ Voting records show that Doherty is correct. Even when you look just at key vote
 
 We rate Doherty's claim True.
 
-(Get updates from PolitiFact Rhode Island on Twitter: @politifactri. To comment or offer your ruling, visit us on ourPolitiFact Rhode Island Facebookpage.)",[<zip object at 0x0000028096F28400>],/factchecks/2012/oct/18/brendan-doherty/rhode-island-republican-brendan-doherty-says-he-ca/
+(Get updates from PolitiFact Rhode Island on Twitter: @politifactri. To comment or offer your ruling, visit us on ourPolitiFact Rhode Island Facebookpage.)",/factchecks/2012/oct/18/brendan-doherty/rhode-island-republican-brendan-doherty-says-he-ca/
 "['Voting Record', 'Florida', 'Connie Mack']","
 Connie Mack says Bill Nelson votes 98 percent of the time with Obama
 ","
@@ -717,7 +717,7 @@ Mack claims Nelson votes with Obama 98 percent of the time. The campaign backs t
 
 The figure by itself, however, doesn’t tell the entire story. The fact is, most Democrats and Republicans largely vote with their respective party. And the groups that keep score say using the figure in isolation can be misleading.
 
-With that context in mind, we rate the claim Mostly True.",[<zip object at 0x0000028096E22600>],/factchecks/2012/oct/18/connie-mack/connie-mack-says-bill-nelson-votes-98-percent-time/
+With that context in mind, we rate the claim Mostly True.",/factchecks/2012/oct/18/connie-mack/connie-mack-says-bill-nelson-votes-98-percent-time/
 "['Candidate Biography', 'Debates', 'Taxes', 'Florida', 'Bill Nelson']","
 Bill Nelson said Connie Mack takes two homestead exemptions, ""directly contrary to Florida’s Constitution""
 ","
@@ -769,7 +769,7 @@ Mack and his wife both serve in Congress, representing two different states on o
 
 While it’s true Mack and his wife have two homestead exemptions between them, it is not accurate for Nelson to say Mack himself has two homestead exemptions. That would not be lawful, and Mack’s county property appraiser has vetted his case and determined it proper.
 
-We rate the statement Mostly False.",[<zip object at 0x000002809771E2C0>],/factchecks/2012/oct/18/bill-nelson/mack-gets-one-florida/
+We rate the statement Mostly False.",/factchecks/2012/oct/18/bill-nelson/mack-gets-one-florida/
 "['Candidate Biography', 'Debates', 'Voting Record', 'Florida', 'Bill Nelson']","
 Bill Nelson says Connie Mack missed a lot of votes this year
 ","
@@ -811,7 +811,7 @@ But unlike Nelson, Mack faced serious primary challengers, which meant he had to
 
 According to the New York Times, Mack’s record places him in 13th for this Congress which started in January 2011 (or 10th if we omit members who resigned or died). That fits the definition of ""one of the worst.""
 
-We rate this claim Mostly True.",[<zip object at 0x0000028097716180>],/factchecks/2012/oct/18/bill-nelson/bill-nelson-says-connie-mack-missed-lot-votes-year/
+We rate this claim Mostly True.",/factchecks/2012/oct/18/bill-nelson/bill-nelson-says-connie-mack-missed-lot-votes-year/
 "['Debates', 'Taxes', 'Florida', 'Connie Mack']","
 Connie Mack says -- repeatedly -- that Bill Nelson voted for higher taxes 150 times
 ","
@@ -877,7 +877,7 @@ Mack arrives at that figure through some tricks: He counts non-binding resolutio
 
 In the list of votes that Mack supplied to PolitiFact after the debate, he included a note that explained it included non-binding votes and other caveats. But during the debate, Mack didn’t explain any of that -- he just repeated the claim without further explanation.
 
-We rate this claim False.",[<zip object at 0x00000280974E4B40>],/factchecks/2012/oct/18/connie-mack/connie-mack-says-repeatedly-bill-nelson-voted-incr/
+We rate this claim False.",/factchecks/2012/oct/18/connie-mack/connie-mack-says-repeatedly-bill-nelson-voted-incr/
 "['Medicare', 'Florida', 'Connie Mack']","
 Connie Mack says Bill Nelson voted to cut $700 billion from Medicare
 ","
@@ -919,7 +919,7 @@ Part of the savings go to reduce prescription drug payments for Medicare recipie
 
 Overall, the lower spending extends the solvency of Medicare by eight years.
 
-We rate the statement Mostly False.",[<zip object at 0x0000028096DD8600>],/factchecks/2012/oct/18/connie-mack/mack-says-nelson-voted-cut-700-billion-medicare/
+We rate the statement Mostly False.",/factchecks/2012/oct/18/connie-mack/mack-says-nelson-voted-cut-700-billion-medicare/
 "['China', 'Debates', 'Pensions', 'Taxes', 'Wisconsin', 'Mitt Romney']","
 Romney says Obama also has investments in Chinese companies and through a Cayman Islands trust
 ","
@@ -977,7 +977,7 @@ It’s an accurate set of statements when you consider investments made by manag
 
 As we noted in reviewing previous claims about Romney’s investments in China, the investments involved are indirect and -- as far as anybody has said -- made without the knowledge of the account holder.
 
-With that clarification, we rate Romney’s statement Mostly True.",[<zip object at 0x0000028096E08E80>],/factchecks/2012/oct/17/mitt-romney/romney-says-obama-also-has-investments-chinese-com/
+With that clarification, we rate Romney’s statement Mostly True.",/factchecks/2012/oct/17/mitt-romney/romney-says-obama-also-has-investments-chinese-com/
 "['Immigration', 'National', 'Barack Obama']","
 Barack Obama touts record high border agents, lowest immigration from Mexico in 40 years
 ","
@@ -1025,7 +1025,7 @@ Our ruling
 
 Obama said, ""We put more border patrol on the (U.S.-Mexico border than at) any time in history, and the flow of undocumented workers across the border is actually lower than it's been in 40 years.""
 
-Obama is right about the numbers of Border Patrol agents and on the immigrant flows across the border. However, it’s a stretch for him to suggest that his administration is the primary reason for record numbers -- the growth began under Bush. And while law enforcement matters, so do economic conditions in both the United States and Mexico as well as crime on the Mexican side of the border. On balance, we rate Obama’s claim Half True.",[<zip object at 0x00000280967A8500>],/factchecks/2012/oct/17/barack-obama/barack-obama-touts-record-high-border-agents-lowes/
+Obama is right about the numbers of Border Patrol agents and on the immigrant flows across the border. However, it’s a stretch for him to suggest that his administration is the primary reason for record numbers -- the growth began under Bush. And while law enforcement matters, so do economic conditions in both the United States and Mexico as well as crime on the Mexican side of the border. On balance, we rate Obama’s claim Half True.",/factchecks/2012/oct/17/barack-obama/barack-obama-touts-record-high-border-agents-lowes/
 "['National', 'Economy', 'Jobs', 'Barack Obama']","
 Barack Obama says his administration has created 5 million jobs
 ","
@@ -1054,7 +1054,7 @@ Our ruling
 Obama said that his administration has created ""5 million jobs … over the last 30 months in the private sector alone."" That’s true only using the most cherry-picked time frame. A more reasonable method -- starting the count at the beginning of the recovery -- shows a gain of 3.6 million jobs.
 That’s still a substantial number, but well short of the 5 million Obama claimed.
 
-We rate the statement Half True.",[<zip object at 0x0000028096F08CC0>],/factchecks/2012/oct/17/barack-obama/barack-obama-says-his-administration-has-created-5/
+We rate the statement Half True.",/factchecks/2012/oct/17/barack-obama/barack-obama-says-his-administration-has-created-5/
 "['National', 'Debates', 'Drugs', 'Health Care', 'Sexuality', 'Women', 'Barack Obama']","
 Obama says Romney suggested employers should be able to decide if insurance covers contraceptives
 ","President Barack Obama and Republican candidate Mitt Romney clashed over contraceptives coverage in their second debate, with Romney ultimately declaring, ""the president's statement of my policy is completely and totally wrong.""
@@ -1099,7 +1099,7 @@ Our ruling
 
 Obama said Romney ""suggested"" that ""employers should be able to make the decision as to whether or not a woman gets contraception through her insurance coverage.""
 
-Romney says he doesn’t believe bureaucrats or employers should make the call whether a woman can use contraceptives. But his support for the Blunt amendment endorses the approach that employers should be able to make the decision about whether contraception is covered by employees’ insurance. We rate Obama’s claim True.",[<zip object at 0x0000028097A51740>],/factchecks/2012/oct/17/barack-obama/obama-says-romney-suggested-employers-should-be-ab/
+Romney says he doesn’t believe bureaucrats or employers should make the call whether a woman can use contraceptives. But his support for the Blunt amendment endorses the approach that employers should be able to make the decision about whether contraception is covered by employees’ insurance. We rate Obama’s claim True.",/factchecks/2012/oct/17/barack-obama/obama-says-romney-suggested-employers-should-be-ab/
 "['Federal Budget', 'Health Care', 'Medicare', 'Message Machine 2012', 'Wisconsin', 'Rob Zerban']","
 Paul Ryan's House opponent, Democrat Rob Zerban, says Ryan budget ""ends Medicare""
 ","
@@ -1160,7 +1160,7 @@ People 55 and older would remain on traditional Medicare, while those who today 
 We rate Zerban’s statement Pants on Fire.
 
 
- ",[<zip object at 0x000002809C2F9400>],/factchecks/2012/oct/17/rob-zerban/paul-ryans-house-opponent-democrat-rob-zerban-says/
+ ",/factchecks/2012/oct/17/rob-zerban/paul-ryans-house-opponent-democrat-rob-zerban-says/
 "['Ohio', 'Message Machine 2012', 'Taxes', 'Josh Mandel']","
 Josh Mandel ad claims Sherrod Brown failed to pay his taxes three times
 ","
@@ -1198,4 +1198,4 @@ Mandel was accurate in saying that Brown failed to pay his taxes three separate 
 
 There is no indication he was trying to evade the tax, but that wasn’t part of Mandel’s claim, either.
 
-On the Truth-O-Meter, the claim in the Mandel campaign ad rates True.",[<zip object at 0x0000028097C20B40>],/factchecks/2012/oct/17/josh-mandel/josh-mandel-ad-claims-sherrod-brown-failed-pay-his/
+On the Truth-O-Meter, the claim in the Mandel campaign ad rates True.",/factchecks/2012/oct/17/josh-mandel/josh-mandel-ad-claims-sherrod-brown-failed-pay-his/

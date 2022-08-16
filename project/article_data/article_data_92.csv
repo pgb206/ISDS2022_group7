@@ -1,4 +1,4 @@
-tags,sub_header,text_body,sources,quote_href
+tags,sub_header,text_body,quote_href
 "['Message Machine 2012', 'State Budget', 'Taxes', 'Texas', 'Elizabeth Ames Jones']","
 Elizabeth Ames Jones says she balanced $10 billion shortfall without raising taxes
 ","
@@ -34,7 +34,7 @@ Our ruling
 Jones was among a select group of House members to draft the first version of the budget that she touts and ultimately voted, like most House colleagues, to send to the governor.
 
 Her video could easily have specified that Jones fought in the House for no new taxes and worked to make up a $10 billion shortfall. In contrast, it leaves the misimpression that ""she did it,"" all of it, as if by herself. All told, her claim has a clear-cut element of truth, but ignores critical facts putting her role in perspective. 
-We rate her statement Mostly False.",[<zip object at 0x00000280967B9E80>],/factchecks/2012/apr/11/elizabeth-ames-jones/elizabeth-ames-jones-says-she-balanced-10-billion-/
+We rate her statement Mostly False.",/factchecks/2012/apr/11/elizabeth-ames-jones/elizabeth-ames-jones-says-she-balanced-10-billion-/
 "['City Budget', 'Economy', 'Jobs', 'Wisconsin', 'Republican Governors Association']","
 Republican Governors Association says Mayor Tom Barrett’s policies drove up unemployment 27 percent in Milwaukee
 ","
@@ -103,7 +103,7 @@ Our conclusion
 
 The Republican Governors Association, which backs Scott Walker, was basically accurate on its claims, but overstates the influence of a mayor on taming unemployment.
 
-This comes in Half True.",[<zip object at 0x0000028097C10FC0>],/factchecks/2012/apr/11/republican-governors-association/republican-governors-association-says-mayor-tom-ba/
+This comes in Half True.",/factchecks/2012/apr/11/republican-governors-association/republican-governors-association-says-mayor-tom-ba/
 "['New Jersey', 'Energy', 'Robert Menendez']","
 Robert Menendez claims U.S. fuel exports surpassed imports in 2011 for the first time since 1949
 ","
@@ -140,7 +140,7 @@ During his Twitter Town Hall, Menendez claimed the United States ""actually expo
 Based on findings released last month by the U.S. Energy Information Administration, that statistic is accurate. Driven by demand for distillate fuel -- which includes diesel fuel and heating oil -- exports of petroleum products in 2011 exceeded imports by about 440,000 barrels per day, according to the agency.
 
 We rate the statement True. 
-To comment on this ruling, go to NJ.com.",[<zip object at 0x000002809A2EA0C0>],/factchecks/2012/apr/11/robert-menendez/robert-menendez-claims-us-oil-exports-surpassed-im/
+To comment on this ruling, go to NJ.com.",/factchecks/2012/apr/11/robert-menendez/robert-menendez-claims-us-oil-exports-surpassed-im/
 "['Georgia', 'Climate Change', 'Energy', 'Jobs', 'Johnny Isakson']","
 Isakson: Keystone pipeline to employ 20,000
 ","Backers of a massive oil pipeline from Canada to the Gulf of Mexico are telling voters that it will flood the U.S. with jobs.
@@ -205,7 +205,7 @@ Those 20,000 don’t represent actual people, but one job lasting for one year o
 
 And there’s strong evidence from credible sources that it may be lower. Finally, it’s an open question how many of the jobs would be in America.
 
-We give Isakson a False.",[<zip object at 0x000002809C226500>],/factchecks/2012/apr/11/johnny-isakson/isakson-keystone-pipeline-employ-20000/
+We give Isakson a False.",/factchecks/2012/apr/11/johnny-isakson/isakson-keystone-pipeline-employ-20000/
 "['Immigration', 'Texas', 'Charlie Gonzalez']","
 U.S. Rep. Charlie Gonzalez says that in Arizona, Mitt Romney said the state’s SB 1070 law should be model for nation
 ","
@@ -239,7 +239,7 @@ Then again, Romney also said he would end the federal challenge to the 2010 law 
 Finally, we turned to NumbersUSA, an Arlington-Va.-based nonprofit group that opposes illegal immigration and advocates for limits on legal immigration, because it tracks what the presidential candidates say about immigration. The group’s president, Roy Beck, told us that Romney has expressed support for enacting ""attrition by enforcement"" policies on a national level such as requiring that businesses use E-Verify. Beck said Romney has not said specific provisions of SB 1070 should be taken as a model for federal immigration laws. 
 Our ruling 
 Gonzalez could legitimately have targeted Romney’s vow to immediately drop the federal challenge to Arizona’s immigration-enforcement law as president. Instead, the Democrat’s statement to reporters mischaracterizes Romney’s salute to Arizona’s 2007 mandate that employers electronically verify the legal status of employees. That E-Verify requirement was not in the 2010 Arizona law. 
-We rate the Texan’s claim as False.",[<zip object at 0x0000028097BC7B40>],/factchecks/2012/apr/11/charlie-gonzalez/us-rep-charlie-gonzalez-says-arizona-mitt-romney-s/
+We rate the Texan’s claim as False.",/factchecks/2012/apr/11/charlie-gonzalez/us-rep-charlie-gonzalez-says-arizona-mitt-romney-s/
 "['Ohio', 'Economy', 'Jobs', 'State Budget', 'John Kasich']","
 Gov. John Kasich says the rainy day fund has grown from 89 cents to $240 million
 ","
@@ -271,7 +271,7 @@ Seeing an opportunity few of us could resist, Perera wrote himself into state le
 
 Kasich actually understated the fund’s latest balance, as of March 30, when he  rounded it to $240 million. The 89 cents was accurate.
 
-His statement rates as True.",[<zip object at 0x0000028096F86640>],/factchecks/2012/apr/11/john-kasich/gov-john-kasich-says-rainy-day-fund-has-grown-89-c/
+His statement rates as True.",/factchecks/2012/apr/11/john-kasich/gov-john-kasich-says-rainy-day-fund-has-grown-89-c/
 "['National', 'Corrections and Updates', 'Jobs', 'Women', 'Mitt Romney']","
 Romney campaign says women were hit hard by job losses under Obama
 ","
@@ -384,7 +384,7 @@ We’ll conclude with this point: Experts agree that the economic recovery has n
 
 Does all this mean that Obama’s policies have brought hard times to women?
 
-Said Bartlett, the conservative: ""There’s no reason to think so.""",[<zip object at 0x00000280972A6040>],/factchecks/2012/apr/10/mitt-romney/romney-campaign-says-women-were-hit-hard-job-losse/
+Said Bartlett, the conservative: ""There’s no reason to think so.""",/factchecks/2012/apr/10/mitt-romney/romney-campaign-says-women-were-hit-hard-job-losse/
 "['Taxes', 'Florida', 'Barack Obama']","
 How many Americans make less than $250,000 a year?
 ","
@@ -408,7 +408,7 @@ The White House’s prepared materials on the Buffett Rule included statistics r
 
 Using statistics from the IRS website, we found that 137,988,219 tax returns out of 140,494,127 -- or 98.2 percent -- reported adjusted gross income of less than $250,000 a year in 2009, the most recent data available.
 
-We rate the claim True.",[<zip object at 0x0000028097A4DC00>],/factchecks/2012/apr/10/barack-obama/how-many-americans-make-less-250000-year/
+We rate the claim True.",/factchecks/2012/apr/10/barack-obama/how-many-americans-make-less-250000-year/
 "['National', 'Corrections and Updates', 'Federal Budget', 'Paul Ryan']","
 Paul Ryan says Barack Obama 'has doubled the size of government since he took office'
 ","
@@ -456,7 +456,7 @@ Our ruling
 Even Ryan’s out-of-date budget data offers no support for the notion that Obama ""has doubled the size of government since he took office.""
 
 As the House's budget leader and a key spokesman for his party’s budgetary proposals, Ryan should have known better. We rate his statement Pants on Fire. 
-UPDATE: After our story appeared, Ryan’s office got back to us. They said that they had been using fiscal year 2008 as their base year, rather than fiscal year 2009. Using the 2008 figures, federal outlays do roughly double between 2008 and 2021 under Obama’s fiscal year 2012 budget proposal. However, we think it’s inaccurate to use fiscal 2008 as the base year, since that year ended about four months before Obama took office. In any case, our previous concerns -- using figures for 2021, when Obama will have been out of office for either five or nine years, and ignoring the role of mandatory spending in expanding federal outlays -- still stand, and we’re keeping the rating at Pants on Fire. In addition, Ryan’s office removed the sentence we checked after our story appeared. It has been replaced by a sentence that reads, ""At the same time, the president will double the national debt and his plan ensures it will triple in the next eight years.""",[<zip object at 0x0000028097CF1080>],/factchecks/2012/apr/10/paul-ryan/paul-ryan-barack-obama-has-doubled-size-government/
+UPDATE: After our story appeared, Ryan’s office got back to us. They said that they had been using fiscal year 2008 as their base year, rather than fiscal year 2009. Using the 2008 figures, federal outlays do roughly double between 2008 and 2021 under Obama’s fiscal year 2012 budget proposal. However, we think it’s inaccurate to use fiscal 2008 as the base year, since that year ended about four months before Obama took office. In any case, our previous concerns -- using figures for 2021, when Obama will have been out of office for either five or nine years, and ignoring the role of mandatory spending in expanding federal outlays -- still stand, and we’re keeping the rating at Pants on Fire. In addition, Ryan’s office removed the sentence we checked after our story appeared. It has been replaced by a sentence that reads, ""At the same time, the president will double the national debt and his plan ensures it will triple in the next eight years.""",/factchecks/2012/apr/10/paul-ryan/paul-ryan-barack-obama-has-doubled-size-government/
 "['Oregon', 'Education', 'Health Care', 'Public Safety', 'State Budget', 'Taxes', 'Jefferson Smith']","
 Does Oregon spend more on tax breaks than on public safety, health care and education combined?
 ","
@@ -501,7 +501,7 @@ Smith knows that. Last year, he pushed for a package of bills that would have ta
 As for our ruling, Smith’s claim is accurate. The state does spend more on tax breaks than it does on public safety, health care and education. This holds true whether you look at the larger all funds budget, or the smaller general and lottery funds budget. But there is some important context here, including the fact that many of those tax breaks are off limits to state lawmakers.
 
 We rate this claim Mostly True -- accurate but it requires some clarification. 
-Return to OregonLive to comment on this ruling.",[<zip object at 0x0000028097A4C1C0>],/factchecks/2012/apr/10/jefferson-smith/does-oregon-spend-more-tax-breaks-public-safet-hea/
+Return to OregonLive to comment on this ruling.",/factchecks/2012/apr/10/jefferson-smith/does-oregon-spend-more-tax-breaks-public-safet-hea/
 "['Immigration', 'National', 'Chain email']","
 Chain email says media ignored recent 'raid on the Arizona border'
 ","The photos tell a story.
@@ -544,7 +544,7 @@ A Newsweek article on May 17, 2010, says the Mexican military discovered a major
 
 Our ruling
 
-A chain email in April 2012 recycles images from a raid that happened nowhere near Arizona, and certainly not on March 2, 2012. ""Why was there no news coverage of this raid on the Arizona border?"" it says. ""Seizure was just five days ago. Right on the Arizona border!"" You didn’t see it on the news for an excellent reason: It’s not news. It’s instead a ridiculous claim that warrants a rating of Pants on Fire.",[<zip object at 0x00000280972AC040>],/factchecks/2012/apr/10/chain-email/chain-email-says-media-ignored-recent-raid-arizona/
+A chain email in April 2012 recycles images from a raid that happened nowhere near Arizona, and certainly not on March 2, 2012. ""Why was there no news coverage of this raid on the Arizona border?"" it says. ""Seizure was just five days ago. Right on the Arizona border!"" You didn’t see it on the news for an excellent reason: It’s not news. It’s instead a ridiculous claim that warrants a rating of Pants on Fire.",/factchecks/2012/apr/10/chain-email/chain-email-says-media-ignored-recent-raid-arizona/
 "['Economy', 'Poverty', 'Texas', 'David Dewhurst']","
 David Dewhurst says poverty ranks up by 6.4 million under Obama
 ","
@@ -581,7 +581,7 @@ Our ruling
 Dewhurst’s figures draw from a reliable source on Americans in poverty in 2010 — which, of course, is not 2012 — compared with 2008, the year before Obama became president. 
 A better understanding of the extent of U.S. poverty lies in looking at the share of Americans in dire straits. That measure also supports Dewhurst’s point — that poverty has increased during Obama’s term. Then again, the percentage of residents in poverty had begun to grow in 2007, two years before Obama’s first in office. 
 Finally, it’s a reach to say Obama is personally to blame for the increase in poverty. 
-On balance, we rate Dewhurst’s statement Half True.",[<zip object at 0x0000028097455280>],/factchecks/2012/apr/10/david-dewhurst/david-dewhurst-says-poverty-ranks-64-million-under/
+On balance, we rate Dewhurst’s statement Half True.",/factchecks/2012/apr/10/david-dewhurst/david-dewhurst-says-poverty-ranks-64-million-under/
 "['Civil Rights', 'Legal Issues', 'Women', 'Workers', 'Wisconsin', 'Kathleen Falk']","
 Dem in Wisconsin governor recall says GOP-backed bill means women ""can't do something about"" pay discrimination
 ","
@@ -621,7 +621,7 @@ Our rating
 
 Falk said women facing pay discrimination can't ""do something about it"" under a bill passed by Wisconsin Republicans. But of the four legal options available under the current law, only one would be eliminated by the bill.
 
-We rate Falk's statement False.",[<zip object at 0x000002809C447540>],/factchecks/2012/apr/10/kathleen-falk/dem-wisconsin-governor-recall-says-gop-backed-bill/
+We rate Falk's statement False.",/factchecks/2012/apr/10/kathleen-falk/dem-wisconsin-governor-recall-says-gop-backed-bill/
 "['Jobs', 'Florida', 'Rick Scott']","
 Gov. Rick Scott changes the math for '700,000 jobs'
 ","
@@ -677,7 +677,7 @@ In the same few days, another Scott spokesman, Lane Wright, brushed off a questi
 
 ""Gov. Scott committed to creating 700,000 jobs in seven years, and we are on track to meet that goal,"" Wright said.
 
-In August, the governor himself weighed in. An Associated Press reporter reminded Scott that his jobs plan was designed to generate 700,000 jobs on top of those restored by the state's expected growth.",[<zip object at 0x0000028097488F80>],/factchecks/2011/oct/04/rick-scott/gov-rick-scott-changes-math-700000-jobs-pledge/
+In August, the governor himself weighed in. An Associated Press reporter reminded Scott that his jobs plan was designed to generate 700,000 jobs on top of those restored by the state's expected growth.",/factchecks/2011/oct/04/rick-scott/gov-rick-scott-changes-math-700000-jobs-pledge/
 "['New Jersey', 'Jobs', 'Chris Christie']","
 Chris Christie talks up job growth in New Jersey
 ","
@@ -726,7 +726,7 @@ Christie said, ""New Jersey's unemployment is significantly lower than it was wh
 His statistics on private-sector job growth are accurate, and the unemployment rate is lower. But the unemployment decline is not statistically significant. And as we’ve said in the past, Christie can’t take all the credit for job growth in the Garden State.
 
 We rate his statement Half True. 
-To comment on this story, go to NJ.com.",[<zip object at 0x0000028096FA8240>],/factchecks/2011/oct/04/chris-christie/chris-christie-talks-job-growth-new-jersey/
+To comment on this story, go to NJ.com.",/factchecks/2011/oct/04/chris-christie/chris-christie-talks-job-growth-new-jersey/
 "['Immigration', 'Health Care', 'Texas', 'Rick Santorum']","
 Rick Santorum says Rick Perry talked up binational health insurance in a 2001 speech
 ","
@@ -758,7 +758,7 @@ Earlier in 2001, Perry vetoed a measure calling for state health officials to de
 Our ruling 
 Perry talked about binational health insurance in a 2001 speech, as Santorum said. However, his dig about Perry's mention wrongly implies that the governor is working to establish binational health insurance. We found no evidence of Perry taking further action in the 10 years since. 
 We rate Santorum's statement Half True. 
-To comment on this ruling, ""like"" us on Facebook.",[<zip object at 0x000002809706D140>],/factchecks/2011/oct/04/rick-santorum/rick-santorum-says-rick-perry-talked-binational-he/
+To comment on this ruling, ""like"" us on Facebook.",/factchecks/2011/oct/04/rick-santorum/rick-santorum-says-rick-perry-talked-binational-he/
 "['National', 'Federal Budget', 'Pundits', ""Bill O'Reilly""]","
 $16 muffin included coffee, tea, event space
 ","The $16 muffin: It’s just another piece of evidence that federal spending is out of control, according to pundit Bill O’Reilly and others who have pounced on an inspector general's report as evidence of a wasteful Washington.
@@ -813,7 +813,7 @@ On the other hand, a full reading of the report showed the $16 muffins included 
 
 Also, O’Reilly made his remarks to Jon Stewart on Sept. 28, after Hilton issued its first statement on Sept. 23 saying the invoices may not have been complete. So the report was under question when O’Reilly debated Stewart. (We contacted O’Reilly for comment, but we didn’t hear back.)
 
-Because the federal government didn't pay $16 for a muffin even if it paid too much for breakfast, we rate O’Reilly’s statement Mostly False.",[<zip object at 0x0000028096F80C40>],/factchecks/2011/oct/04/bill-oreilly/16-muffin-included-coffee-tea-event-space/
+Because the federal government didn't pay $16 for a muffin even if it paid too much for breakfast, we rate O’Reilly’s statement Mostly False.",/factchecks/2011/oct/04/bill-oreilly/16-muffin-included-coffee-tea-event-space/
 "['New Jersey', 'Elections', 'Chris Christie']","
 Chris Christie confirms he won't seek presidency in 2012
 ","
@@ -874,7 +874,7 @@ That experience could be handy if Christie decides to run for president in 2016.
 So after months of stating loudly that he’s not running for president in 2012, Christie’s lips moved again Oct. 4 – and the words spoken numerous times before about not seeking the presidency were true.
 
 For that reason, we give Christie a No Flip on the Flip-O-Meter.  
-To comment on this story, go to NJ.com.",[<zip object at 0x00000280967B9A80>],/factchecks/2011/oct/04/chris-christie/chris-christie-confirms-he-wont-seek-presidency-20/
+To comment on this story, go to NJ.com.",/factchecks/2011/oct/04/chris-christie/chris-christie-confirms-he-wont-seek-presidency-20/
 "['National', 'History', 'Haley Barbour']","
 Haley Barbour says Barack Obama benefited from biggest Congressional Democratic majorities since Lyndon Johnson
 ","
@@ -903,7 +903,7 @@ Now, here are the Congresses in which the number of Senate Democrats equaled or 
 So, both the House and Senate simultaneously equaled or exceeded 2009 levels for significant stretches of four Congresses -- the ones beginning in 1975, 1977, 1979 and 1993. That’s about one-fifth of the Congresses since the Johnson presidency. And for three of those Congresses, there was also a Democratic president in office -- first Jimmy Carter, then Bill Clinton. 
 Of course, internal splits within the Democratic caucuses made the party weaker than the numbers alone would suggest. But that was also true in 2009, the year to which Barbour was referring. 
 Our ruling 
-It’s true that Democratic strength in Congress at the beginning of Obama’s term was the strongest it had been in 16 years. But that’s not what Barbour said -- he said the numbers were the strongest going back to President Johnson in the late 1960s. And that was not the case. We rate his statement False.",[<zip object at 0x000002809BFFC240>],/factchecks/2011/oct/04/haley-barbour/haley-barbour-says-barack-obama-benefited-biggest-/
+It’s true that Democratic strength in Congress at the beginning of Obama’s term was the strongest it had been in 16 years. But that’s not what Barbour said -- he said the numbers were the strongest going back to President Johnson in the late 1960s. And that was not the case. We rate his statement False.",/factchecks/2011/oct/04/haley-barbour/haley-barbour-says-barack-obama-benefited-biggest-/
 "['Ohio', 'Economy', 'Trade', 'Marcy Kaptur']","
 Marcy Kaptur says the U.S. imported 500,000 cars from South Korea but only sent 6,000 there
 ","
@@ -936,7 +936,7 @@ Her office said that’s because she cited 2009 numbers from a Congressional Res
 Her number for domestic vehicles is understated, too. She said 6,000, as compared to a tally of 7,450 for General Motors, Ford and Chrysler that the ITC provided. 
 But that also only considers vehicles made by the Big 3 U.S. automakers. Nearly 5,600 more vehicles made by foreign-based automakers at plants in the United States also went to South Korea. That’s a point of additional information.
 
-On the Truth-O-Meter, her claim rates Mostly True.",[<zip object at 0x0000028096FB8880>],/factchecks/2011/oct/04/marcy-kaptur/marcy-kaptur-says-us-imported-500000-cars-south-ko/
+On the Truth-O-Meter, her claim rates Mostly True.",/factchecks/2011/oct/04/marcy-kaptur/marcy-kaptur-says-us-imported-500000-cars-south-ko/
 "['Georgia', 'Jobs', 'Rick Perry']","
 Is Perry right on Texas job growth?
 ","
@@ -970,7 +970,7 @@ Economist Doug Hall also pointed out the state’s population growth and its une
 
 Our friends at PolitiFact Texas tackled a similar topic when Perry boasted about the state’s job creation during a GOP presidential debate. It noted that moderator Brian Williams pointed out that Texas has the highest-in-the-nation share of minimum-wage workers.
 
-Perry’s numbers are on target, but there is some context to consider here. Some of the growth may be attributable to Texas’ regulations, but there are other factors, such as the state’s major population growth and the large number of minimum-wage workers. We rate his claim Mostly True.",[<zip object at 0x00000280979D2600>],/factchecks/2011/oct/04/rick-perry/perry-right-texas-job-growth/
+Perry’s numbers are on target, but there is some context to consider here. Some of the growth may be attributable to Texas’ regulations, but there are other factors, such as the state’s major population growth and the large number of minimum-wage workers. We rate his claim Mostly True.",/factchecks/2011/oct/04/rick-perry/perry-right-texas-job-growth/
 "['Candidate Biography', 'Texas', 'Ted Cruz']","
 Ted Cruz says David Dewhurst ducked nine U.S. Senate forums after declaring his candidacy
 ","
@@ -1006,7 +1006,7 @@ Looking forward, he said, that ""as we can, we’re going to go to a forum or so
 
 Our take: Dewhurst did not appear at nine forums, eight of them after the night he announced his candidacy. But it’s a mite questionable to say he outright skipped the events. In most cases, his campaign said beforehand Dewhurst wasn’t going to appear.
 
-We rate Cruz’s statement Mostly True.",[<zip object at 0x0000028097D79DC0>],/factchecks/2011/oct/03/ted-cruz/ted-cruz-says-david-dewhurst-ducked-nine-us-senate/
+We rate Cruz’s statement Mostly True.",/factchecks/2011/oct/03/ted-cruz/ted-cruz-says-david-dewhurst-ducked-nine-us-senate/
 "['National', 'Jobs', 'States', ""Martin O'Malley""]","
 Under Chris Christie, does New Jersey have ""one of the higher unemployment rates in the country""?
 ","
@@ -1053,7 +1053,7 @@ We’ll also note an underlying flaw in claims like these. O’Malley tries to p
 
 Our ruling
 
-O’Malley got the figure right (9.4 percent), and he has a point that New Jersey’s unemployment rate is higher than the national and regional averages. However, we think most people, if they heard O’Malley’s claim, would expect that a state with ""one of the higher unemployment rates in the country"" would rank higher than 15th out of 50 or 16th out of 51. Finally, O'Malley said, ""When it comes to being effective at creating jobs … (Chris Christie has not had) a record of governing for effectiveness."" Christie’s responsibility for his state’s difficult jobs picture is unclear. On balance, we rate his claim Half True.",[<zip object at 0x0000028097BBD340>],/factchecks/2011/oct/03/martin-omalley/under-chris-christie-does-new-jersey-have-one-high/
+O’Malley got the figure right (9.4 percent), and he has a point that New Jersey’s unemployment rate is higher than the national and regional averages. However, we think most people, if they heard O’Malley’s claim, would expect that a state with ""one of the higher unemployment rates in the country"" would rank higher than 15th out of 50 or 16th out of 51. Finally, O'Malley said, ""When it comes to being effective at creating jobs … (Chris Christie has not had) a record of governing for effectiveness."" Christie’s responsibility for his state’s difficult jobs picture is unclear. On balance, we rate his claim Half True.",/factchecks/2011/oct/03/martin-omalley/under-chris-christie-does-new-jersey-have-one-high/
 "['National', 'Jobs', 'States', ""Martin O'Malley""]","
 Did Chris Christie's New Jersey create no net new jobs last year?
 ","
@@ -1091,7 +1091,7 @@ Our ruling
 In discussing job creation, O'Malley said, ""When it comes to being effective at creating jobs … (Chris Christie has not had) a record of governing for effectiveness"" and went on to say that last year New Jersey created ""no net new jobs."" Using the year 2010 as the yardstick, O’Malley is correct that ""last year, New Jersey created no net new jobs."" And it’s true that for every period we studied since Christie took office, New Jersey underperformed job-creation numbers for the nation as a whole.
 
 However, we think it’s cherry-picking for O’Malley to use the data for 2010 only when the data for 2010 and 2011 are available -- and when the expanded data contradicts the point that was accurate for just 2010. 
-At least as important, Christie’s responsibility for his state’s difficult jobs picture is unclear. On balance, we rate this claim Half True.",[<zip object at 0x0000028097B99340>],/factchecks/2011/oct/03/martin-omalley/did-chris-christies-new-jersey-create-no-net-new-j/
+At least as important, Christie’s responsibility for his state’s difficult jobs picture is unclear. On balance, we rate this claim Half True.",/factchecks/2011/oct/03/martin-omalley/did-chris-christies-new-jersey-create-no-net-new-j/
 "['Environment', 'Oregon', 'Government Regulation', 'Public Health', 'Earl Blumenauer']","
 Earl Blumenauer says delaying air pollution rules will kill 34,000 people a year
 ","
@@ -1144,7 +1144,7 @@ The report repeats the number eight more times.
 We find that Blumenauer was on solid ground. But he also  cherry-picked the highest death number rather than using the range of 13,000 to 34,000 additional deaths.
 
 While that omission does not change the conclusion that air pollution is bad for public health, it could exaggerate the problem. For that reason, we rate this claim: Mostly True. 
-Return to OregonLive.com/politics to comment on this PolitiFact/Oregon ruling.",[<zip object at 0x0000028097039A00>],/factchecks/2011/oct/03/earl-blumenauer/earl-blumenauer-says-delaying-air-pollution-rules-/
+Return to OregonLive.com/politics to comment on this PolitiFact/Oregon ruling.",/factchecks/2011/oct/03/earl-blumenauer/earl-blumenauer-says-delaying-air-pollution-rules-/
 "['Abortion', 'Wisconsin', ""EMILY's List""]","
 EMILY's List says GOP U.S. Senate hopeful Tommy Thompson pushed law that exposed partial-birth abortion providers to life in prison
 ","
@@ -1205,7 +1205,7 @@ A partial-birth abortion ban that Thompson signed into law as Wisconsin’s gove
 
 The law also caused many abortion providers, at least for a few days, to stop performing abortions. That means it was possible some Wisconsin women had to leave the state in order to get an abortion. But there is no proof, as EMILY’s List claimed, that women were forced to leave the state ""to receive attention for life-threatening issues.""
 
-We rate the EMILY’s List statement Half True.",[<zip object at 0x0000028097BB4880>],/factchecks/2011/oct/03/emilys-list/emilys-list-says-gop-us-senate-hopeful-tommy-thomp/
+We rate the EMILY’s List statement Half True.",/factchecks/2011/oct/03/emilys-list/emilys-list-says-gop-us-senate-hopeful-tommy-thomp/
 "['Ohio', 'Economy', 'Jobs', 'John Kasich']","
 Gov. John Kasich touts contacts with companies to create, retain jobs
 ","
@@ -1261,7 +1261,7 @@ The numbers backup the statement. Determining how much credit goes to the admini
 
 Kasich did not offer a tally for his job creation and retention record, or take credit for all job growth in the state. Rather, he offered up a general statement about efforts in his administration that have yielded some results.
 
-On the Truth-O-Meter, his statement rates True.",[<zip object at 0x0000028097A7A300>],/factchecks/2011/oct/03/john-kasich/gov-john-kasich-touts-contacts-companies-create-re/
+On the Truth-O-Meter, his statement rates True.",/factchecks/2011/oct/03/john-kasich/gov-john-kasich-touts-contacts-companies-create-re/
 "['Georgia', 'Economy', 'Jobs', 'Herman Cain']","
 Herman Cain: Recovery 14 million jobs behind typical upswing
 ","
@@ -1301,7 +1301,7 @@ So Cain’s statement does have weaknesses. The number he used in the Wall Stree
 
 Also, Cain could have been more clear. He should have emphasized that he meant that there would be 14 million more jobs if this recession were more typical of the most severe postwar recessions, rather than postwar recessions in general.
 
-That said, Cain’s calculation that we would have 14 million jobs was within reason, if a bit high. We therefore rate Cain’s statement Mostly True.",[<zip object at 0x00000280971BB200>],/factchecks/2011/oct/03/herman-cain/herman-cain-recovery-14-million-jobs-behind-typica/
+That said, Cain’s calculation that we would have 14 million jobs was within reason, if a bit high. We therefore rate Cain’s statement Mostly True.",/factchecks/2011/oct/03/herman-cain/herman-cain-recovery-14-million-jobs-behind-typica/
 "['New Jersey', 'Ethics', 'John Wisniewski']","
 John Wisniewski claims Chris Christie’s ethics reform package represents a “new agenda”
 ","
@@ -1354,7 +1354,7 @@ Our ruling
 Wisniewski claimed Christie had ""come up with a new agenda"" for ethics reform this past month. But the governor unveiled his ethics reform proposals a year ago, and reiterated the need for action earlier this year.
 
 Still, Wisniewski is right that ethics reform has not been the governor’s top priority in recent months. We rate the statement Mostly False. 
-To comment on this ruling, go to NJ.com.",[<zip object at 0x0000028096D08180>],/factchecks/2011/oct/03/john-wisniewski/john-wisniewski-claims-chris-christies-ethics-refo/
+To comment on this ruling, go to NJ.com.",/factchecks/2011/oct/03/john-wisniewski/john-wisniewski-claims-chris-christies-ethics-refo/
 "['New Jersey', 'Deficit', 'State Budget', 'Chris Christie']","
 Chris Christie claims he balanced two budgets while facing $13 billion in deficits and didn’t raise taxes
 ","
@@ -1411,4 +1411,4 @@ Several experts said cuts to tax credit programs could represent a tax hike.
 And while Christie is technically correct that he balanced two budgets with $13 billion in deficits, that figure includes a projected structural deficit. And the governor has since dismissed structural deficits as ""the old way of budgeting."" He can’t have it one way one year and then change it the next year.
 
 We rate the governor’s statement Half True. 
-To comment on this ruling, go to NJ.com.",[<zip object at 0x000002809688C040>],/factchecks/2011/oct/02/chris-christie/chris-christie-claims-he-balanced-two-budgets-whil/
+To comment on this ruling, go to NJ.com.",/factchecks/2011/oct/02/chris-christie/chris-christie-claims-he-balanced-two-budgets-whil/
