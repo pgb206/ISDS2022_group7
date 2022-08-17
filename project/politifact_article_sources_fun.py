@@ -1,8 +1,8 @@
 source_block = article.find(class_='m-superbox__content')\
                     .find_all('p') #Find article's source block and paragraphs
 
-source_body = []
-source_link = []
+source_body = ['This is a text']
+source_link = ['https://google.com']
 
 for paragraph in source_block:
     source_body.append(paragraph.text) #Find text in source paragraph and append
@@ -14,3 +14,6 @@ for paragraph in source_block:
         continue
     source_link.append('No link') #Append 'no link' if there's no url. 
                                     #Is this how we wanna do it??
+
+
+sources = [x for x in zip(source_body, source_link)]
