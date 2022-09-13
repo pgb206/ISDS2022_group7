@@ -5,7 +5,5 @@ This is a respository for the exam project from the *Introduction to Social Data
 ---
 
 ## Authors
-Marius Heltberg Lassen
-Jørgen Baun Høst
 * Marius Heltberg Lassen
 * Jørgen Baun Høst
